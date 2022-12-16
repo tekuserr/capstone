@@ -1,0 +1,1791 @@
+2022-11-12 01:38:01,449 - logger.file -INFO - React Appis equal toReact App
+2022-11-12 01:38:01,581 - logger.file -INFO - user clicked on SignIn option
+2022-11-12 01:38:01,684 - logger.file -INFO - user clicked on Create New Account Button
+2022-11-12 01:38:02,126 - logger.file -INFO - user enetered required information into signUp form
+2022-11-12 01:38:06,248 - logger.file -INFO - user clicked on signUp Button
+2022-11-12 02:28:31,896 - logger.file -INFO - React Appis equal toReact App
+2022-11-12 02:28:32,032 - logger.file -INFO - user clicked on SignIn option
+2022-11-12 02:28:32,289 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone@123
+2022-11-12 02:28:32,384 - logger.file -INFO - user is clicked on login button
+2022-11-12 02:28:32,656 - logger.file -INFO - user logged in into account
+2022-11-12 02:35:37,723 - logger.file -INFO - React Appis equal toReact App
+2022-11-12 02:35:37,866 - logger.file -INFO - user clicked on SignIn option
+2022-11-12 02:35:38,129 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone@123
+2022-11-12 02:35:38,231 - logger.file -INFO - user is clicked on login button
+2022-11-12 02:35:38,502 - logger.file -INFO - user logged in into account
+2022-11-12 15:50:38,726 - logger.file -INFO - React Appis equal toReact App
+2022-11-12 15:50:38,857 - logger.file -INFO - user clicked on SignIn option
+2022-11-12 15:50:39,092 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone@123
+2022-11-12 15:50:39,181 - logger.file -INFO - user is clicked on login button
+2022-11-12 15:50:39,411 - logger.file -INFO - user logged in into account
+2022-11-12 15:50:43,529 - logger.file -INFO - user clicked on Account button
+2022-11-12 15:55:01,138 - logger.file -INFO - React Appis equal toReact App
+2022-11-12 15:55:01,264 - logger.file -INFO - user clicked on SignIn option
+2022-11-12 15:55:01,506 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone@123
+2022-11-12 15:55:01,591 - logger.file -INFO - user is clicked on login button
+2022-11-12 15:55:01,830 - logger.file -INFO - user logged in into account
+2022-11-12 15:55:05,954 - logger.file -INFO - user clicked on Account button
+2022-11-12 15:55:06,176 - logger.file -INFO - user updated nameStone and phone number420-555-0010
+2022-11-12 15:55:06,256 - logger.file -INFO - user clicked on update button
+2022-11-12 15:55:06,281 - logger.file -INFO - user updated profile information
+2022-11-12 17:33:58,714 - logger.file -INFO - React Appis equal toReact App
+2022-11-12 17:33:58,835 - logger.file -INFO - user clicked on SignIn option
+2022-11-12 17:33:59,074 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone@123
+2022-11-12 17:33:59,156 - logger.file -INFO - user is clicked on login button
+2022-11-12 17:33:59,406 - logger.file -INFO - user logged in into account
+2022-11-12 17:34:03,541 - logger.file -INFO - user clicked on Account button
+2022-11-12 17:34:03,909 - logger.file -INFO - user enetered the required password updation information
+2022-11-12 17:34:03,983 - logger.file -INFO - user clicked on Change Password button
+2022-11-12 17:34:04,004 - logger.file -INFO - password updated successfully
+2022-11-12 17:36:53,979 - logger.file -INFO - React Appis equal toReact App
+2022-11-12 17:36:54,093 - logger.file -INFO - user clicked on SignIn option
+2022-11-12 17:36:54,345 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone@123
+2022-11-12 17:36:54,424 - logger.file -INFO - user is clicked on login button
+2022-11-12 17:40:22,281 - logger.file -INFO - React Appis equal toReact App
+2022-11-12 17:40:22,392 - logger.file -INFO - user clicked on SignIn option
+2022-11-12 17:40:22,636 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone@123
+2022-11-12 17:40:22,718 - logger.file -INFO - user is clicked on login button
+2022-11-12 17:41:14,930 - logger.file -INFO - React Appis equal toReact App
+2022-11-12 17:41:15,044 - logger.file -INFO - user clicked on SignIn option
+2022-11-12 17:41:15,290 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone#123
+2022-11-12 17:41:15,373 - logger.file -INFO - user is clicked on login button
+2022-11-12 17:41:15,626 - logger.file -INFO - user logged in into account
+2022-11-12 17:41:19,750 - logger.file -INFO - user clicked on Account button
+2022-11-12 17:41:20,088 - logger.file -INFO - user enetered the required password updation information
+2022-11-12 17:41:20,161 - logger.file -INFO - user clicked on Change Password button
+2022-11-12 17:41:24,221 - logger.file -INFO - password updated successfully
+2022-11-12 18:46:55,902 - logger.file -INFO - React Appis equal toReact App
+2022-11-12 18:46:56,029 - logger.file -INFO - user clicked on SignIn option
+2022-11-12 18:46:56,297 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-12 18:46:56,385 - logger.file -INFO - user is clicked on login button
+2022-11-12 18:46:56,597 - logger.file -INFO - user logged in into account
+2022-11-12 18:47:00,732 - logger.file -INFO - user clicked on Account button
+2022-11-12 18:47:00,836 - logger.file -INFO - user clicked on Add a payment method
+2022-11-12 18:53:06,288 - logger.file -INFO - React Appis equal toReact App
+2022-11-12 18:53:06,424 - logger.file -INFO - user clicked on SignIn option
+2022-11-12 18:53:06,683 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-12 18:53:06,769 - logger.file -INFO - user is clicked on login button
+2022-11-12 18:53:06,995 - logger.file -INFO - user logged in into account
+2022-11-12 18:53:11,124 - logger.file -INFO - user clicked on Account button
+2022-11-12 18:53:11,214 - logger.file -INFO - user clicked on Add a payment method
+2022-11-12 18:56:40,559 - logger.file -INFO - React Appis equal toReact App
+2022-11-12 18:56:40,688 - logger.file -INFO - user clicked on SignIn option
+2022-11-12 18:56:40,922 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-12 18:56:40,999 - logger.file -INFO - user is clicked on login button
+2022-11-12 18:56:41,278 - logger.file -INFO - user logged in into account
+2022-11-12 18:56:45,412 - logger.file -INFO - user clicked on Account button
+2022-11-12 18:56:45,496 - logger.file -INFO - user clicked on Add a payment method
+2022-11-12 19:04:56,098 - logger.file -INFO - React Appis equal toReact App
+2022-11-12 19:04:56,236 - logger.file -INFO - user clicked on SignIn option
+2022-11-12 19:04:56,496 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-12 19:04:56,580 - logger.file -INFO - user is clicked on login button
+2022-11-12 19:04:56,815 - logger.file -INFO - user logged in into account
+2022-11-12 19:05:00,956 - logger.file -INFO - user clicked on Account button
+2022-11-12 19:05:01,073 - logger.file -INFO - user clicked on Add a payment method
+2022-11-12 19:09:20,696 - logger.file -INFO - React Appis equal toReact App
+2022-11-12 19:09:20,810 - logger.file -INFO - user clicked on SignIn option
+2022-11-12 19:09:21,056 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-12 19:09:21,141 - logger.file -INFO - user is clicked on login button
+2022-11-12 19:09:21,428 - logger.file -INFO - user logged in into account
+2022-11-12 19:09:25,568 - logger.file -INFO - user clicked on Account button
+2022-11-12 19:09:25,658 - logger.file -INFO - user clicked on Add a payment method
+2022-11-12 19:27:56,655 - logger.file -INFO - React Appis equal toReact App
+2022-11-12 19:27:56,794 - logger.file -INFO - user clicked on SignIn option
+2022-11-12 19:27:57,051 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-12 19:27:57,135 - logger.file -INFO - user is clicked on login button
+2022-11-12 19:27:57,375 - logger.file -INFO - user logged in into account
+2022-11-12 19:28:01,503 - logger.file -INFO - user clicked on Account button
+2022-11-12 19:28:01,603 - logger.file -INFO - user clicked on Add a payment method
+2022-11-12 19:39:54,232 - logger.file -INFO - React Appis equal toReact App
+2022-11-12 19:39:54,382 - logger.file -INFO - user clicked on SignIn option
+2022-11-12 19:39:54,649 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-12 19:39:54,737 - logger.file -INFO - user is clicked on login button
+2022-11-12 19:39:55,066 - logger.file -INFO - user logged in into account
+2022-11-12 19:39:59,205 - logger.file -INFO - user clicked on Account button
+2022-11-12 19:39:59,301 - logger.file -INFO - user clicked on Add a payment method
+2022-11-12 19:44:22,134 - logger.file -INFO - React Appis equal toReact App
+2022-11-12 19:44:22,293 - logger.file -INFO - user clicked on SignIn option
+2022-11-12 19:44:22,573 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-12 19:44:22,661 - logger.file -INFO - user is clicked on login button
+2022-11-12 19:44:22,958 - logger.file -INFO - user logged in into account
+2022-11-12 19:44:27,094 - logger.file -INFO - user clicked on Account button
+2022-11-12 19:44:27,200 - logger.file -INFO - user clicked on Add a payment method
+2022-11-12 20:19:55,290 - logger.file -INFO - React Appis equal toReact App
+2022-11-12 20:19:55,419 - logger.file -INFO - user clicked on SignIn option
+2022-11-12 20:19:55,687 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-12 20:19:55,773 - logger.file -INFO - user is clicked on login button
+2022-11-12 20:19:55,999 - logger.file -INFO - user logged in into account
+2022-11-12 20:20:00,126 - logger.file -INFO - user clicked on Account button
+2022-11-12 20:20:00,237 - logger.file -INFO - user clicked on Add a payment method
+2022-11-12 20:26:03,578 - logger.file -INFO - React Appis equal toReact App
+2022-11-12 20:26:03,706 - logger.file -INFO - user clicked on SignIn option
+2022-11-12 20:26:03,965 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-12 20:26:04,046 - logger.file -INFO - user is clicked on login button
+2022-11-12 20:26:04,347 - logger.file -INFO - user logged in into account
+2022-11-12 20:26:08,482 - logger.file -INFO - user clicked on Account button
+2022-11-12 20:26:08,568 - logger.file -INFO - user clicked on Add a payment method
+2022-11-12 20:50:26,587 - logger.file -INFO - React Appis equal toReact App
+2022-11-12 20:50:26,721 - logger.file -INFO - user clicked on SignIn option
+2022-11-12 20:50:26,964 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-12 20:50:27,047 - logger.file -INFO - user is clicked on login button
+2022-11-12 20:50:27,356 - logger.file -INFO - user logged in into account
+2022-11-12 20:50:31,491 - logger.file -INFO - user clicked on Account button
+2022-11-12 20:50:31,591 - logger.file -INFO - user clicked on Add a payment method
+2022-11-14 14:12:46,967 - logger.file -INFO - React Appis equal toReact App
+2022-11-14 14:12:47,140 - logger.file -INFO - user clicked on SignIn option
+2022-11-14 14:12:47,417 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-14 14:12:47,504 - logger.file -INFO - user is clicked on login button
+2022-11-14 14:12:47,720 - logger.file -INFO - user logged in into account
+2022-11-14 14:12:51,855 - logger.file -INFO - user clicked on Account button
+2022-11-14 14:12:51,948 - logger.file -INFO - user clicked on Add a payment method
+2022-11-16 02:44:41,638 - logger.file -INFO - React Appis equal toReact App
+2022-11-16 02:44:41,753 - logger.file -INFO - user clicked on SignIn option
+2022-11-16 02:44:42,010 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-16 02:44:42,087 - logger.file -INFO - user is clicked on login button
+2022-11-16 02:44:42,340 - logger.file -INFO - user logged in into account
+2022-11-16 02:44:46,478 - logger.file -INFO - user clicked on Account button
+2022-11-16 02:44:46,571 - logger.file -INFO - user clicked on Add a payment method
+2022-11-16 02:44:51,241 - logger.file -INFO - user clicked on Add Your card button
+2022-11-16 02:46:56,534 - logger.file -INFO - React Appis equal toReact App
+2022-11-16 02:46:56,671 - logger.file -INFO - user clicked on SignIn option
+2022-11-16 02:46:56,936 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-16 02:46:57,019 - logger.file -INFO - user is clicked on login button
+2022-11-16 02:46:57,355 - logger.file -INFO - user logged in into account
+2022-11-16 02:47:01,488 - logger.file -INFO - user clicked on Account button
+2022-11-16 02:47:01,587 - logger.file -INFO - user clicked on Add a payment method
+2022-11-16 02:47:06,291 - logger.file -INFO - user clicked on Add Your card button
+2022-11-16 02:58:06,435 - logger.file -INFO - React Appis equal toReact App
+2022-11-16 02:58:06,578 - logger.file -INFO - user clicked on SignIn option
+2022-11-16 02:58:06,852 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-16 02:58:06,939 - logger.file -INFO - user is clicked on login button
+2022-11-16 02:58:07,273 - logger.file -INFO - user logged in into account
+2022-11-16 02:58:11,401 - logger.file -INFO - user clicked on Account button
+2022-11-16 02:58:11,508 - logger.file -INFO - user clicked on Add a payment method
+2022-11-16 02:59:55,728 - logger.file -INFO - React Appis equal toReact App
+2022-11-16 02:59:55,858 - logger.file -INFO - user clicked on SignIn option
+2022-11-16 02:59:56,139 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-16 02:59:56,229 - logger.file -INFO - user is clicked on login button
+2022-11-16 02:59:56,553 - logger.file -INFO - user logged in into account
+2022-11-16 03:00:00,680 - logger.file -INFO - user clicked on Account button
+2022-11-16 03:00:00,769 - logger.file -INFO - user clicked on Add a payment method
+2022-11-16 03:01:35,195 - logger.file -INFO - React Appis equal toReact App
+2022-11-16 03:01:35,327 - logger.file -INFO - user clicked on SignIn option
+2022-11-16 03:01:35,608 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-16 03:01:35,690 - logger.file -INFO - user is clicked on login button
+2022-11-16 03:01:36,015 - logger.file -INFO - user logged in into account
+2022-11-16 03:01:40,134 - logger.file -INFO - user clicked on Account button
+2022-11-16 03:01:40,222 - logger.file -INFO - user clicked on Add a payment method
+2022-11-16 03:01:44,918 - logger.file -INFO - user clicked on Add Your card button
+2022-11-16 03:06:20,688 - logger.file -INFO - React Appis equal toReact App
+2022-11-16 03:06:20,823 - logger.file -INFO - user clicked on SignIn option
+2022-11-16 03:06:21,099 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-16 03:06:21,186 - logger.file -INFO - user is clicked on login button
+2022-11-16 03:06:21,490 - logger.file -INFO - user logged in into account
+2022-11-16 03:06:25,660 - logger.file -INFO - user clicked on Account button
+2022-11-16 03:06:25,759 - logger.file -INFO - user clicked on Add a payment method
+2022-11-16 03:06:30,403 - logger.file -INFO - user clicked on Add Your card button
+2022-11-16 03:14:07,923 - logger.file -INFO - React Appis equal toReact App
+2022-11-16 03:14:08,052 - logger.file -INFO - user clicked on SignIn option
+2022-11-16 03:14:08,325 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-16 03:14:08,408 - logger.file -INFO - user is clicked on login button
+2022-11-16 03:14:08,752 - logger.file -INFO - user logged in into account
+2022-11-16 03:14:12,873 - logger.file -INFO - user clicked on Account button
+2022-11-16 03:14:12,966 - logger.file -INFO - user clicked on Add a payment method
+2022-11-16 03:22:58,674 - logger.file -INFO - React Appis equal toReact App
+2022-11-16 03:22:58,809 - logger.file -INFO - user clicked on SignIn option
+2022-11-16 03:22:59,093 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-16 03:22:59,173 - logger.file -INFO - user is clicked on login button
+2022-11-16 03:22:59,501 - logger.file -INFO - user logged in into account
+2022-11-16 03:23:03,617 - logger.file -INFO - user clicked on Account button
+2022-11-16 03:23:03,707 - logger.file -INFO - user clicked on Add a payment method
+2022-11-16 03:29:05,677 - logger.file -INFO - React Appis equal toReact App
+2022-11-16 03:29:05,812 - logger.file -INFO - user clicked on SignIn option
+2022-11-16 03:29:06,082 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-16 03:29:06,162 - logger.file -INFO - user is clicked on login button
+2022-11-16 03:29:06,491 - logger.file -INFO - user logged in into account
+2022-11-16 03:29:10,615 - logger.file -INFO - user clicked on Account button
+2022-11-16 03:29:10,713 - logger.file -INFO - user clicked on Add a payment method
+2022-11-16 03:29:11,251 - logger.file -INFO - user clicked on Add Your card button
+2022-11-16 03:33:36,773 - logger.file -INFO - React Appis equal toReact App
+2022-11-16 03:33:36,915 - logger.file -INFO - user clicked on SignIn option
+2022-11-16 03:33:37,217 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-16 03:33:37,307 - logger.file -INFO - user is clicked on login button
+2022-11-16 03:33:37,770 - logger.file -INFO - user logged in into account
+2022-11-16 03:33:41,891 - logger.file -INFO - user clicked on Account button
+2022-11-16 03:33:41,994 - logger.file -INFO - user clicked on Add a payment method
+2022-11-16 03:33:42,612 - logger.file -INFO - user clicked on submit button
+2022-11-16 03:55:34,711 - logger.file -INFO - React Appis equal toReact App
+2022-11-16 03:55:34,849 - logger.file -INFO - user clicked on SignIn option
+2022-11-16 03:55:35,121 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-16 03:55:35,205 - logger.file -INFO - user is clicked on login button
+2022-11-16 03:55:35,515 - logger.file -INFO - user logged in into account
+2022-11-16 03:55:39,650 - logger.file -INFO - user clicked on Account button
+2022-11-16 03:55:39,753 - logger.file -INFO - user clicked on Add a payment method
+2022-11-16 03:55:40,302 - logger.file -INFO - user clicked on submit button
+2022-11-16 03:59:15,264 - logger.file -INFO - React Appis equal toReact App
+2022-11-16 03:59:15,389 - logger.file -INFO - user clicked on SignIn option
+2022-11-16 03:59:15,654 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-16 03:59:15,733 - logger.file -INFO - user is clicked on login button
+2022-11-16 03:59:16,326 - logger.file -INFO - user logged in into account
+2022-11-16 03:59:20,459 - logger.file -INFO - user clicked on Account button
+2022-11-16 03:59:20,554 - logger.file -INFO - user clicked on Add a payment method
+2022-11-16 03:59:21,120 - logger.file -INFO - user clicked on submit button
+2022-11-16 03:59:21,139 - logger.file -INFO - Payment Method added sucessfully
+2022-11-16 04:16:14,425 - logger.file -INFO - React Appis equal toReact App
+2022-11-16 04:16:14,540 - logger.file -INFO - user clicked on SignIn option
+2022-11-16 04:16:14,802 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-16 04:16:14,894 - logger.file -INFO - user is clicked on login button
+2022-11-16 04:16:15,176 - logger.file -INFO - user logged in into account
+2022-11-16 04:16:19,310 - logger.file -INFO - user clicked on Account button
+2022-11-16 04:16:19,400 - logger.file -INFO - user clicked on Add a payment method
+2022-11-16 04:16:19,962 - logger.file -INFO - user clicked on submit button
+2022-11-16 04:16:19,981 - logger.file -INFO - Payment Method added sucessfully
+2022-11-17 15:21:00,088 - logger.file -INFO - React Appis equal toReact App
+2022-11-17 15:21:00,224 - logger.file -INFO - user clicked on SignIn option
+2022-11-17 15:21:00,532 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-17 15:21:00,612 - logger.file -INFO - user is clicked on login button
+2022-11-17 15:21:00,941 - logger.file -INFO - user logged in into account
+2022-11-17 15:21:05,083 - logger.file -INFO - user clicked on Account button
+2022-11-17 15:21:05,175 - logger.file -INFO - user clicked on Add a payment method
+2022-11-17 15:47:15,474 - logger.file -INFO - React Appis equal toReact App
+2022-11-17 15:47:15,604 - logger.file -INFO - user clicked on SignIn option
+2022-11-17 15:47:15,904 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-17 15:47:15,995 - logger.file -INFO - user is clicked on login button
+2022-11-17 15:47:16,295 - logger.file -INFO - user logged in into account
+2022-11-17 15:47:20,464 - logger.file -INFO - user clicked on Account button
+2022-11-17 15:47:20,570 - logger.file -INFO - user clicked on Add a payment method
+2022-11-17 15:50:41,517 - logger.file -INFO - React Appis equal toReact App
+2022-11-17 15:50:41,649 - logger.file -INFO - user clicked on SignIn option
+2022-11-17 15:50:41,996 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-17 15:50:42,077 - logger.file -INFO - user is clicked on login button
+2022-11-17 15:50:42,443 - logger.file -INFO - user logged in into account
+2022-11-17 15:50:46,581 - logger.file -INFO - user clicked on Account button
+2022-11-17 15:50:46,672 - logger.file -INFO - user clicked on Add a payment method
+2022-11-17 15:50:47,279 - logger.file -INFO - user clicked on Add Your card
+2022-11-17 15:50:47,299 - logger.file -INFO - Payment Method added sucessfully
+2022-11-20 02:29:26,551 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 02:29:26,680 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 02:29:26,954 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 02:29:27,041 - logger.file -INFO - user is clicked on login button
+2022-11-20 02:29:27,331 - logger.file -INFO - user logged in into account
+2022-11-20 02:29:31,467 - logger.file -INFO - user clicked on Account button
+2022-11-20 02:29:51,106 - logger.file -INFO - user Clicked on Edit card button
+2022-11-20 02:29:51,594 - logger.file -INFO - user succesfully edit their card information
+2022-11-20 02:29:51,672 - logger.file -INFO - user clicked on Update Your Card Button
+2022-11-20 02:30:07,842 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 02:30:07,967 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 02:30:08,253 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 02:30:08,339 - logger.file -INFO - user is clicked on login button
+2022-11-20 02:30:08,703 - logger.file -INFO - user logged in into account
+2022-11-20 02:30:12,831 - logger.file -INFO - user clicked on Account button
+2022-11-20 02:42:47,698 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 02:42:47,836 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 02:42:48,134 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 02:42:48,223 - logger.file -INFO - user is clicked on login button
+2022-11-20 02:42:48,543 - logger.file -INFO - user logged in into account
+2022-11-20 02:42:52,676 - logger.file -INFO - user clicked on Account button
+2022-11-20 02:48:49,151 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 02:48:49,278 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 02:48:49,548 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 02:48:49,628 - logger.file -INFO - user is clicked on login button
+2022-11-20 02:48:49,931 - logger.file -INFO - user logged in into account
+2022-11-20 02:48:54,066 - logger.file -INFO - user clicked on Account button
+2022-11-20 02:48:54,179 - logger.file -INFO - User clicked on Master Card link
+2022-11-20 02:48:54,275 - logger.file -INFO - user Clicked on Edit card button
+2022-11-20 02:48:54,725 - logger.file -INFO - user succesfully edit their card information
+2022-11-20 02:48:54,798 - logger.file -INFO - user clicked on Update Your Card Button
+2022-11-20 02:54:00,408 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 02:54:00,533 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 02:54:00,811 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 02:54:00,895 - logger.file -INFO - user is clicked on login button
+2022-11-20 02:54:01,185 - logger.file -INFO - user logged in into account
+2022-11-20 02:54:05,309 - logger.file -INFO - user clicked on Account button
+2022-11-20 02:54:05,926 - logger.file -INFO - User clicked on Master Card link
+2022-11-20 02:54:06,013 - logger.file -INFO - user Clicked on Edit card button
+2022-11-20 02:54:06,469 - logger.file -INFO - user succesfully edit their card information
+2022-11-20 02:54:06,544 - logger.file -INFO - user clicked on Update Your Card Button
+2022-11-20 02:56:34,892 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 02:56:35,004 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 02:56:35,262 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 02:56:35,339 - logger.file -INFO - user is clicked on login button
+2022-11-20 02:56:35,610 - logger.file -INFO - user logged in into account
+2022-11-20 02:56:39,739 - logger.file -INFO - user clicked on Account button
+2022-11-20 02:56:40,347 - logger.file -INFO - User clicked on Master Card link
+2022-11-20 02:56:40,434 - logger.file -INFO - user Clicked on Edit card button
+2022-11-20 02:56:40,967 - logger.file -INFO - user succesfully edit their card information
+2022-11-20 02:56:41,048 - logger.file -INFO - user clicked on Update Your Card Button
+2022-11-20 02:56:41,067 - logger.file -INFO - Payment added sucessfully
+2022-11-20 03:15:00,346 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 03:15:00,510 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 03:15:00,808 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 03:15:00,904 - logger.file -INFO - user is clicked on login button
+2022-11-20 03:15:01,289 - logger.file -INFO - user logged in into account
+2022-11-20 03:15:05,431 - logger.file -INFO - user clicked on Account button
+2022-11-20 03:15:06,047 - logger.file -INFO - User clicked on Master Card link
+2022-11-20 03:15:06,136 - logger.file -INFO - user Clicked on Edit card button
+2022-11-20 03:15:06,643 - logger.file -INFO - user succesfully edit their card information
+2022-11-20 03:15:06,721 - logger.file -INFO - user clicked on Update Your Card Button
+2022-11-20 03:15:06,740 - logger.file -INFO - Payment updated sucessfully
+2022-11-20 03:17:35,773 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 03:17:35,915 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 03:17:36,184 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 03:17:36,288 - logger.file -INFO - user is clicked on login button
+2022-11-20 03:17:36,604 - logger.file -INFO - user logged in into account
+2022-11-20 03:17:40,738 - logger.file -INFO - user clicked on Account button
+2022-11-20 03:17:41,355 - logger.file -INFO - User clicked on Master Card link
+2022-11-20 03:17:41,433 - logger.file -INFO - user Clicked on Edit card button
+2022-11-20 03:17:41,889 - logger.file -INFO - user succesfully edit their card information
+2022-11-20 03:17:41,960 - logger.file -INFO - user clicked on Update Your Card Button
+2022-11-20 03:17:41,979 - logger.file -INFO - Payment updated sucessfully
+2022-11-20 03:20:49,921 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 03:20:50,038 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 03:20:50,304 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 03:20:50,395 - logger.file -INFO - user is clicked on login button
+2022-11-20 03:20:50,715 - logger.file -INFO - user logged in into account
+2022-11-20 03:20:54,846 - logger.file -INFO - user clicked on Account button
+2022-11-20 03:20:55,461 - logger.file -INFO - User clicked on Master Card link
+2022-11-20 03:20:55,546 - logger.file -INFO - user Clicked on Edit card button
+2022-11-20 03:20:56,011 - logger.file -INFO - user succesfully edit their card information
+2022-11-20 03:20:56,084 - logger.file -INFO - user clicked on Update Your Card Button
+2022-11-20 03:20:56,103 - logger.file -INFO - Payment updated sucessfully
+2022-11-20 03:30:19,998 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 03:30:20,132 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 03:30:20,408 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 03:30:20,506 - logger.file -INFO - user is clicked on login button
+2022-11-20 03:30:20,826 - logger.file -INFO - user logged in into account
+2022-11-20 03:30:24,954 - logger.file -INFO - user clicked on Account button
+2022-11-20 03:30:25,567 - logger.file -INFO - User clicked on Master Card link
+2022-11-20 03:30:25,647 - logger.file -INFO - user Clicked on Edit card button
+2022-11-20 03:30:26,247 - logger.file -INFO - user succesfully edit their card information
+2022-11-20 03:30:26,327 - logger.file -INFO - user clicked on Update Your Card Button
+2022-11-20 03:30:26,345 - logger.file -INFO - Payment updated sucessfully
+2022-11-20 03:45:59,204 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 03:45:59,332 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 03:45:59,599 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 03:45:59,680 - logger.file -INFO - user is clicked on login button
+2022-11-20 03:45:59,941 - logger.file -INFO - user logged in into account
+2022-11-20 03:46:04,078 - logger.file -INFO - user clicked on Account button
+2022-11-20 03:46:04,701 - logger.file -INFO - User clicked on Master Card link
+2022-11-20 03:46:04,782 - logger.file -INFO - user clicked on remove button
+2022-11-20 03:46:04,805 - logger.file -INFO - card successfully removed
+2022-11-20 03:48:21,650 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 03:48:21,778 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 03:48:22,063 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 03:48:22,164 - logger.file -INFO - user is clicked on login button
+2022-11-20 03:48:22,461 - logger.file -INFO - user logged in into account
+2022-11-20 03:48:26,588 - logger.file -INFO - user clicked on Account button
+2022-11-20 03:48:26,687 - logger.file -INFO - user clicked on Add a payment method
+2022-11-20 03:48:27,215 - logger.file -INFO - user clicked on Add Your card
+2022-11-20 03:48:27,239 - logger.file -INFO - Payment  added sucessfully
+2022-11-20 03:50:09,480 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 03:50:09,594 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 03:50:09,853 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 03:50:09,935 - logger.file -INFO - user is clicked on login button
+2022-11-20 03:50:10,468 - logger.file -INFO - user logged in into account
+2022-11-20 03:50:14,595 - logger.file -INFO - user clicked on Account button
+2022-11-20 03:50:14,683 - logger.file -INFO - user clicked on Add a payment method
+2022-11-20 03:50:15,232 - logger.file -INFO - user clicked on Add Your card
+2022-11-20 03:50:15,251 - logger.file -INFO - Payment  added sucessfully
+2022-11-20 03:52:08,946 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 03:52:09,072 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 03:52:09,360 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 03:52:09,451 - logger.file -INFO - user is clicked on login button
+2022-11-20 03:52:09,763 - logger.file -INFO - user logged in into account
+2022-11-20 03:52:13,882 - logger.file -INFO - user clicked on Account button
+2022-11-20 03:52:13,969 - logger.file -INFO - user clicked on Add a payment method
+2022-11-20 03:52:14,497 - logger.file -INFO - user clicked on Add Your card
+2022-11-20 03:52:14,516 - logger.file -INFO - Payment  added sucessfully
+2022-11-20 03:54:03,443 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 03:54:03,574 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 03:54:03,853 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 03:54:03,952 - logger.file -INFO - user is clicked on login button
+2022-11-20 03:54:04,239 - logger.file -INFO - user logged in into account
+2022-11-20 03:54:08,373 - logger.file -INFO - user clicked on Account button
+2022-11-20 03:54:08,990 - logger.file -INFO - User clicked on Master Card link
+2022-11-20 03:54:09,067 - logger.file -INFO - user Clicked on Edit card button
+2022-11-20 03:54:09,658 - logger.file -INFO - user succesfully edit their card information
+2022-11-20 03:54:09,736 - logger.file -INFO - user clicked on Update Your Card Button
+2022-11-20 03:54:09,755 - logger.file -INFO - Payment updated sucessfully
+2022-11-20 03:55:22,493 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 03:55:22,631 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 03:55:22,896 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 03:55:23,006 - logger.file -INFO - user is clicked on login button
+2022-11-20 03:55:23,324 - logger.file -INFO - user logged in into account
+2022-11-20 03:55:27,456 - logger.file -INFO - user clicked on Account button
+2022-11-20 03:55:27,565 - logger.file -INFO - User clicked on Master Card link
+2022-11-20 03:55:27,660 - logger.file -INFO - user Clicked on Edit card button
+2022-11-20 03:55:28,235 - logger.file -INFO - user succesfully edit their card information
+2022-11-20 03:55:28,312 - logger.file -INFO - user clicked on Update Your Card Button
+2022-11-20 03:55:28,334 - logger.file -INFO - Payment updated sucessfully
+2022-11-20 03:59:00,450 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 03:59:00,560 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 03:59:00,819 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 03:59:00,909 - logger.file -INFO - user is clicked on login button
+2022-11-20 03:59:01,174 - logger.file -INFO - user logged in into account
+2022-11-20 03:59:05,298 - logger.file -INFO - user clicked on Account button
+2022-11-20 03:59:05,920 - logger.file -INFO - User clicked on Master Card link
+2022-11-20 03:59:05,997 - logger.file -INFO - user Clicked on Edit card button
+2022-11-20 03:59:06,565 - logger.file -INFO - user succesfully edit their card information
+2022-11-20 03:59:06,643 - logger.file -INFO - user clicked on Update Your Card Button
+2022-11-20 03:59:06,662 - logger.file -INFO - Payment updated sucessfully
+2022-11-20 04:03:13,748 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 04:03:13,897 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 04:03:14,176 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 04:03:14,279 - logger.file -INFO - user is clicked on login button
+2022-11-20 04:03:14,601 - logger.file -INFO - user logged in into account
+2022-11-20 04:03:18,728 - logger.file -INFO - user clicked on Account button
+2022-11-20 04:03:18,838 - logger.file -INFO - User clicked on Master Card link
+2022-11-20 04:03:18,938 - logger.file -INFO - user Clicked on Edit card button
+2022-11-20 04:03:19,510 - logger.file -INFO - user succesfully edit their card information
+2022-11-20 04:03:19,587 - logger.file -INFO - user clicked on Update Your Card Button
+2022-11-20 04:03:19,614 - logger.file -INFO - Payment updated sucessfully
+2022-11-20 04:04:40,910 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 04:04:41,041 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 04:04:41,338 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 04:04:41,426 - logger.file -INFO - user is clicked on login button
+2022-11-20 04:04:41,743 - logger.file -INFO - user logged in into account
+2022-11-20 04:04:45,873 - logger.file -INFO - user clicked on Account button
+2022-11-20 04:04:46,486 - logger.file -INFO - User clicked on Master Card link
+2022-11-20 04:04:46,563 - logger.file -INFO - user Clicked on Edit card button
+2022-11-20 04:04:47,123 - logger.file -INFO - user succesfully edit their card information
+2022-11-20 04:04:47,196 - logger.file -INFO - user clicked on Update Your Card Button
+2022-11-20 04:04:47,220 - logger.file -INFO - Payment updated sucessfully
+2022-11-20 04:06:23,707 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 04:06:23,835 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 04:06:24,124 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 04:06:24,241 - logger.file -INFO - user is clicked on login button
+2022-11-20 04:06:24,594 - logger.file -INFO - user logged in into account
+2022-11-20 04:06:28,717 - logger.file -INFO - user clicked on Account button
+2022-11-20 04:06:28,824 - logger.file -INFO - User clicked on Master Card link
+2022-11-20 04:06:28,924 - logger.file -INFO - user Clicked on Edit card button
+2022-11-20 04:06:29,523 - logger.file -INFO - user succesfully edit their card information
+2022-11-20 04:06:29,601 - logger.file -INFO - user clicked on Update Your Card Button
+2022-11-20 04:06:29,622 - logger.file -INFO - Payment updated sucessfully
+2022-11-20 17:06:34,016 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 17:06:34,149 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 17:06:34,424 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 17:06:34,511 - logger.file -INFO - user is clicked on login button
+2022-11-20 17:06:34,826 - logger.file -INFO - user logged in into account
+2022-11-20 17:06:38,957 - logger.file -INFO - user clicked on Account button
+2022-11-20 17:06:39,084 - logger.file -INFO - user clicked on Add Address button
+2022-11-20 21:51:16,371 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 21:51:16,504 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 21:51:16,762 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 21:51:16,839 - logger.file -INFO - user is clicked on login button
+2022-11-20 21:51:17,393 - logger.file -INFO - user logged in into account
+2022-11-20 21:51:21,530 - logger.file -INFO - user clicked on Account button
+2022-11-20 21:51:39,926 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 21:51:40,043 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 21:51:40,305 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 21:51:40,389 - logger.file -INFO - user is clicked on login button
+2022-11-20 21:51:40,657 - logger.file -INFO - user logged in into account
+2022-11-20 21:51:44,781 - logger.file -INFO - user clicked on Account button
+2022-11-20 21:51:45,167 - logger.file -INFO - user enetered the required password updation information
+2022-11-20 21:51:45,240 - logger.file -INFO - user clicked on Change Password button
+2022-11-20 21:51:49,293 - logger.file -INFO - password updated successfully
+2022-11-20 21:51:57,115 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 21:51:57,211 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 21:51:57,457 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 21:51:57,529 - logger.file -INFO - user is clicked on login button
+2022-11-20 21:51:57,746 - logger.file -INFO - user logged in into account
+2022-11-20 21:52:01,877 - logger.file -INFO - user clicked on Account button
+2022-11-20 21:52:01,974 - logger.file -INFO - user clicked on Add a payment method
+2022-11-20 21:52:02,508 - logger.file -INFO - user clicked on Add Your card
+2022-11-20 21:52:02,526 - logger.file -INFO - Payment  added sucessfully
+2022-11-20 21:52:10,088 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 21:52:10,180 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 21:52:10,426 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 21:52:10,498 - logger.file -INFO - user is clicked on login button
+2022-11-20 21:52:10,800 - logger.file -INFO - user logged in into account
+2022-11-20 21:52:14,929 - logger.file -INFO - user clicked on Account button
+2022-11-20 21:52:15,533 - logger.file -INFO - User clicked on Master Card link
+2022-11-20 21:52:15,608 - logger.file -INFO - user Clicked on Edit card button
+2022-11-20 21:52:16,165 - logger.file -INFO - user succesfully edit their card information
+2022-11-20 21:52:16,234 - logger.file -INFO - user clicked on Update Your Card Button
+2022-11-20 21:52:16,257 - logger.file -INFO - Payment updated sucessfully
+2022-11-20 21:52:28,265 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 21:52:28,352 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 21:52:28,596 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 21:52:28,665 - logger.file -INFO - user is clicked on login button
+2022-11-20 21:52:28,934 - logger.file -INFO - user logged in into account
+2022-11-20 21:52:33,056 - logger.file -INFO - user clicked on Account button
+2022-11-20 21:52:33,658 - logger.file -INFO - User clicked on Master Card link
+2022-11-20 21:52:33,736 - logger.file -INFO - user clicked on remove button
+2022-11-20 21:52:33,759 - logger.file -INFO - card successfully removed
+2022-11-20 21:52:41,387 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 21:52:41,498 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 21:52:41,747 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 21:52:41,816 - logger.file -INFO - user is clicked on login button
+2022-11-20 21:52:42,359 - logger.file -INFO - user logged in into account
+2022-11-20 21:52:46,478 - logger.file -INFO - user clicked on Account button
+2022-11-20 21:52:46,601 - logger.file -INFO - user clicked on Add Address button
+2022-11-20 21:57:11,818 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 21:57:11,964 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 21:57:12,228 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 21:57:12,319 - logger.file -INFO - user is clicked on login button
+2022-11-20 21:57:12,897 - logger.file -INFO - user logged in into account
+2022-11-20 21:57:17,020 - logger.file -INFO - user clicked on Account button
+2022-11-20 21:57:17,146 - logger.file -INFO - user clicked on Add Address button
+2022-11-20 22:05:58,255 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 22:05:58,410 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 22:05:58,706 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 22:05:58,803 - logger.file -INFO - user is clicked on login button
+2022-11-20 22:05:59,120 - logger.file -INFO - user logged in into account
+2022-11-20 22:06:03,259 - logger.file -INFO - user clicked on Account button
+2022-11-20 22:06:03,399 - logger.file -INFO - user clicked on Add Address button
+2022-11-20 22:07:19,065 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 22:07:19,201 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 22:07:19,466 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 22:07:19,545 - logger.file -INFO - user is clicked on login button
+2022-11-20 22:07:19,963 - logger.file -INFO - user logged in into account
+2022-11-20 22:07:24,091 - logger.file -INFO - user clicked on Account button
+2022-11-20 22:07:24,211 - logger.file -INFO - user clicked on Add Address button
+2022-11-20 22:10:32,782 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 22:10:32,922 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 22:10:33,209 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 22:10:33,292 - logger.file -INFO - user is clicked on login button
+2022-11-20 22:10:33,614 - logger.file -INFO - user logged in into account
+2022-11-20 22:10:37,742 - logger.file -INFO - user clicked on Account button
+2022-11-20 22:10:37,866 - logger.file -INFO - user clicked on Add Address button
+2022-11-20 22:12:23,450 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 22:12:23,565 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 22:12:23,850 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 22:12:23,933 - logger.file -INFO - user is clicked on login button
+2022-11-20 22:12:24,269 - logger.file -INFO - user logged in into account
+2022-11-20 22:12:28,396 - logger.file -INFO - user clicked on Account button
+2022-11-20 22:12:28,516 - logger.file -INFO - user clicked on Add Address button
+2022-11-20 22:13:29,704 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 22:13:29,818 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 22:13:30,136 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 22:13:30,210 - logger.file -INFO - user is clicked on login button
+2022-11-20 22:13:30,584 - logger.file -INFO - user logged in into account
+2022-11-20 22:13:34,710 - logger.file -INFO - user clicked on Account button
+2022-11-20 22:13:34,835 - logger.file -INFO - user clicked on Add Address button
+2022-11-20 22:17:21,231 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 22:17:21,346 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 22:17:21,601 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 22:17:21,683 - logger.file -INFO - user is clicked on login button
+2022-11-20 22:17:22,069 - logger.file -INFO - user logged in into account
+2022-11-20 22:17:26,196 - logger.file -INFO - user clicked on Account button
+2022-11-20 22:17:26,323 - logger.file -INFO - user clicked on Add Address button
+2022-11-20 22:19:40,499 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 22:19:40,645 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 22:19:40,922 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 22:19:41,003 - logger.file -INFO - user is clicked on login button
+2022-11-20 22:19:41,321 - logger.file -INFO - user logged in into account
+2022-11-20 22:19:45,445 - logger.file -INFO - user clicked on Account button
+2022-11-20 22:19:45,574 - logger.file -INFO - user clicked on Add Address button
+2022-11-20 22:22:31,187 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 22:22:31,322 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 22:22:31,593 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 22:22:31,676 - logger.file -INFO - user is clicked on login button
+2022-11-20 22:22:32,014 - logger.file -INFO - user logged in into account
+2022-11-20 22:22:36,151 - logger.file -INFO - user clicked on Account button
+2022-11-20 22:22:36,275 - logger.file -INFO - user clicked on Add Address button
+2022-11-20 22:27:50,303 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 22:27:50,447 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 22:27:50,720 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 22:27:50,804 - logger.file -INFO - user is clicked on login button
+2022-11-20 22:27:51,124 - logger.file -INFO - user logged in into account
+2022-11-20 22:27:55,255 - logger.file -INFO - user clicked on Account button
+2022-11-20 22:27:55,387 - logger.file -INFO - user clicked on Add Address button
+2022-11-20 22:29:48,017 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 22:29:48,138 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 22:29:48,393 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 22:29:48,472 - logger.file -INFO - user is clicked on login button
+2022-11-20 22:29:48,754 - logger.file -INFO - user logged in into account
+2022-11-20 22:29:52,892 - logger.file -INFO - user clicked on Account button
+2022-11-20 22:29:53,036 - logger.file -INFO - user clicked on Add Address button
+2022-11-20 22:38:37,698 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 22:38:37,825 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 22:38:38,108 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 22:38:38,193 - logger.file -INFO - user is clicked on login button
+2022-11-20 22:38:38,585 - logger.file -INFO - user logged in into account
+2022-11-20 22:38:42,709 - logger.file -INFO - user clicked on Account button
+2022-11-20 22:38:42,843 - logger.file -INFO - user clicked on Add Address button
+2022-11-20 22:40:53,547 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 22:40:53,679 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 22:40:53,940 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 22:40:54,024 - logger.file -INFO - user is clicked on login button
+2022-11-20 22:40:54,354 - logger.file -INFO - user logged in into account
+2022-11-20 22:40:58,487 - logger.file -INFO - user clicked on Account button
+2022-11-20 22:40:58,686 - logger.file -INFO - user clicked on Add Address button
+2022-11-20 22:44:44,239 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 22:44:44,381 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 22:44:44,654 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 22:44:44,736 - logger.file -INFO - user is clicked on login button
+2022-11-20 22:44:45,114 - logger.file -INFO - user logged in into account
+2022-11-20 22:44:49,247 - logger.file -INFO - user clicked on Account button
+2022-11-20 22:44:49,371 - logger.file -INFO - user clicked on Add Address button
+2022-11-20 22:47:15,098 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 22:47:15,241 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 22:47:15,504 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 22:47:15,585 - logger.file -INFO - user is clicked on login button
+2022-11-20 22:47:16,004 - logger.file -INFO - user logged in into account
+2022-11-20 22:47:20,140 - logger.file -INFO - user clicked on Account button
+2022-11-20 22:47:20,264 - logger.file -INFO - user clicked on Add Address button
+2022-11-20 22:50:13,483 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 22:50:13,600 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 22:50:13,844 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 22:50:13,920 - logger.file -INFO - user is clicked on login button
+2022-11-20 22:50:14,614 - logger.file -INFO - user logged in into account
+2022-11-20 22:50:18,747 - logger.file -INFO - user clicked on Account button
+2022-11-20 22:50:18,869 - logger.file -INFO - user clicked on Add Address button
+2022-11-20 22:55:05,158 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 22:55:05,292 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 22:55:05,565 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 22:55:05,646 - logger.file -INFO - user is clicked on login button
+2022-11-20 22:55:05,928 - logger.file -INFO - user logged in into account
+2022-11-20 22:55:10,066 - logger.file -INFO - user clicked on Account button
+2022-11-20 22:55:10,199 - logger.file -INFO - user clicked on Add Address button
+2022-11-20 22:59:43,879 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 22:59:44,018 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 22:59:44,286 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 22:59:44,368 - logger.file -INFO - user is clicked on login button
+2022-11-20 22:59:44,692 - logger.file -INFO - user logged in into account
+2022-11-20 22:59:48,821 - logger.file -INFO - user clicked on Account button
+2022-11-20 22:59:48,944 - logger.file -INFO - user clicked on Add Address button
+2022-11-20 23:02:55,942 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 23:02:56,078 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 23:02:56,406 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 23:02:56,492 - logger.file -INFO - user is clicked on login button
+2022-11-20 23:02:56,816 - logger.file -INFO - user logged in into account
+2022-11-20 23:03:00,948 - logger.file -INFO - user clicked on Account button
+2022-11-20 23:03:01,075 - logger.file -INFO - user clicked on Add Address button
+2022-11-20 23:04:47,868 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 23:04:47,997 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 23:04:48,268 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 23:04:48,356 - logger.file -INFO - user is clicked on login button
+2022-11-20 23:04:48,725 - logger.file -INFO - user logged in into account
+2022-11-20 23:04:52,857 - logger.file -INFO - user clicked on Account button
+2022-11-20 23:04:52,978 - logger.file -INFO - user clicked on Add Address button
+2022-11-20 23:05:59,911 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 23:06:00,042 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 23:06:00,306 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 23:06:00,387 - logger.file -INFO - user is clicked on login button
+2022-11-20 23:06:00,697 - logger.file -INFO - user logged in into account
+2022-11-20 23:06:04,833 - logger.file -INFO - user clicked on Account button
+2022-11-20 23:06:04,962 - logger.file -INFO - user clicked on Add Address button
+2022-11-20 23:12:45,819 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 23:12:45,936 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 23:12:46,221 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 23:12:46,315 - logger.file -INFO - user is clicked on login button
+2022-11-20 23:12:46,617 - logger.file -INFO - user logged in into account
+2022-11-20 23:12:50,749 - logger.file -INFO - user clicked on Account button
+2022-11-20 23:12:50,874 - logger.file -INFO - user clicked on Add Address button
+2022-11-20 23:19:04,771 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 23:19:04,904 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 23:19:05,188 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 23:19:05,273 - logger.file -INFO - user is clicked on login button
+2022-11-20 23:19:05,802 - logger.file -INFO - user logged in into account
+2022-11-20 23:19:09,923 - logger.file -INFO - user clicked on Account button
+2022-11-20 23:19:10,050 - logger.file -INFO - user clicked on Add Address button
+2022-11-20 23:20:03,002 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 23:20:03,138 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 23:20:03,407 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 23:20:03,496 - logger.file -INFO - user is clicked on login button
+2022-11-20 23:20:03,855 - logger.file -INFO - user logged in into account
+2022-11-20 23:20:07,986 - logger.file -INFO - user clicked on Account button
+2022-11-20 23:20:08,118 - logger.file -INFO - user clicked on Add Address button
+2022-11-20 23:23:15,031 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 23:23:15,169 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 23:23:15,447 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 23:23:15,560 - logger.file -INFO - user is clicked on login button
+2022-11-20 23:23:15,914 - logger.file -INFO - user logged in into account
+2022-11-20 23:23:20,043 - logger.file -INFO - user clicked on Account button
+2022-11-20 23:23:20,166 - logger.file -INFO - user clicked on Add Address button
+2022-11-20 23:25:24,731 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 23:25:24,861 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 23:25:25,126 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 23:25:25,207 - logger.file -INFO - user is clicked on login button
+2022-11-20 23:25:25,546 - logger.file -INFO - user logged in into account
+2022-11-20 23:25:29,667 - logger.file -INFO - user clicked on Account button
+2022-11-20 23:25:29,792 - logger.file -INFO - user clicked on Add Address button
+2022-11-20 23:27:42,861 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 23:27:42,996 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 23:27:43,278 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 23:27:43,385 - logger.file -INFO - user is clicked on login button
+2022-11-20 23:27:43,723 - logger.file -INFO - user logged in into account
+2022-11-20 23:27:47,858 - logger.file -INFO - user clicked on Account button
+2022-11-20 23:27:47,991 - logger.file -INFO - user clicked on Add Address button
+2022-11-20 23:29:16,264 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 23:29:16,399 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 23:29:16,683 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 23:29:16,789 - logger.file -INFO - user is clicked on login button
+2022-11-20 23:29:17,111 - logger.file -INFO - user logged in into account
+2022-11-20 23:29:21,233 - logger.file -INFO - user clicked on Account button
+2022-11-20 23:29:21,359 - logger.file -INFO - user clicked on Add Address button
+2022-11-20 23:35:40,402 - logger.file -INFO - React Appis equal toReact App
+2022-11-20 23:35:40,522 - logger.file -INFO - user clicked on SignIn option
+2022-11-20 23:35:40,826 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-20 23:35:40,917 - logger.file -INFO - user is clicked on login button
+2022-11-20 23:35:41,192 - logger.file -INFO - user logged in into account
+2022-11-20 23:35:45,317 - logger.file -INFO - user clicked on Account button
+2022-11-20 23:35:45,444 - logger.file -INFO - user clicked on Add Address button
+2022-11-21 17:37:01,262 - logger.file -INFO - React Appis equal toReact App
+2022-11-21 17:37:01,404 - logger.file -INFO - user clicked on SignIn option
+2022-11-21 17:37:01,673 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-21 17:37:01,756 - logger.file -INFO - user is clicked on login button
+2022-11-21 17:37:02,065 - logger.file -INFO - user logged in into account
+2022-11-21 17:37:06,205 - logger.file -INFO - user clicked on Account button
+2022-11-21 17:37:06,375 - logger.file -INFO - user clicked on Add Address button
+2022-11-21 17:37:07,168 - logger.file -INFO - user successfully fill the form of new address
+2022-11-21 17:37:11,318 - logger.file -INFO - user successfully add the address
+2022-11-21 17:37:12,058 - logger.file -INFO - Message was displayed successfully
+2022-11-28 01:38:42,468 - logger.file -INFO - React Appis equal toReact App
+2022-11-28 01:38:42,675 - logger.file -INFO - user clicked on SignIn option
+2022-11-28 01:38:42,983 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-28 01:38:43,068 - logger.file -INFO - user is clicked on login button
+2022-11-28 01:38:43,346 - logger.file -INFO - user logged in into account
+2022-11-28 01:38:47,496 - logger.file -INFO - user clicked on Account button
+2022-11-28 01:38:47,629 - logger.file -INFO - user click on Edit button
+2022-11-28 01:38:49,089 - logger.file -INFO - user successfully updated the  address
+2022-11-28 01:38:49,265 - logger.file -INFO - user click on Uodate Your Address button
+2022-11-28 01:38:49,957 - logger.file -INFO - Message was displayed successfully
+2022-11-28 01:41:08,254 - logger.file -INFO - React Appis equal toReact App
+2022-11-28 01:41:08,391 - logger.file -INFO - user clicked on SignIn option
+2022-11-28 01:41:08,662 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-28 01:41:08,758 - logger.file -INFO - user is clicked on login button
+2022-11-28 01:41:09,216 - logger.file -INFO - user logged in into account
+2022-11-28 01:41:13,352 - logger.file -INFO - user clicked on Account button
+2022-11-28 01:41:13,492 - logger.file -INFO - user clicked on Add Address button
+2022-11-28 01:41:14,361 - logger.file -INFO - user successfully fill the form of new address
+2022-11-28 01:41:18,486 - logger.file -INFO - user successfully add the address
+2022-11-28 01:41:19,149 - logger.file -INFO - Message was displayed successfully
+2022-11-28 01:44:14,885 - logger.file -INFO - React Appis equal toReact App
+2022-11-28 01:44:15,026 - logger.file -INFO - user clicked on SignIn option
+2022-11-28 01:44:15,319 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-28 01:44:15,425 - logger.file -INFO - user is clicked on login button
+2022-11-28 01:44:15,732 - logger.file -INFO - user logged in into account
+2022-11-28 01:44:19,877 - logger.file -INFO - user clicked on Account button
+2022-11-28 01:44:20,006 - logger.file -INFO - user clicked on Add Address button
+2022-11-28 01:45:06,726 - logger.file -INFO - React Appis equal toReact App
+2022-11-28 01:45:06,846 - logger.file -INFO - user clicked on SignIn option
+2022-11-28 01:45:07,131 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-28 01:45:07,235 - logger.file -INFO - user is clicked on login button
+2022-11-28 01:45:07,523 - logger.file -INFO - user logged in into account
+2022-11-28 01:45:11,670 - logger.file -INFO - user clicked on Account button
+2022-11-28 01:45:11,807 - logger.file -INFO - user clicked on Add Address button
+2022-11-28 01:45:12,718 - logger.file -INFO - user successfully fill the form of new address
+2022-11-28 01:45:16,843 - logger.file -INFO - user successfully add the address
+2022-11-28 01:45:17,603 - logger.file -INFO - Message was displayed successfully
+2022-11-28 02:13:15,357 - logger.file -INFO - React Appis equal toReact App
+2022-11-28 02:13:15,475 - logger.file -INFO - user clicked on SignIn option
+2022-11-28 02:13:15,739 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-28 02:13:15,836 - logger.file -INFO - user is clicked on login button
+2022-11-28 02:13:16,069 - logger.file -INFO - user logged in into account
+2022-11-28 02:13:20,211 - logger.file -INFO - user clicked on Account button
+2022-11-28 02:13:20,329 - logger.file -INFO - user click on remove button
+2022-11-28 02:16:07,400 - logger.file -INFO - React Appis equal toReact App
+2022-11-28 02:16:07,515 - logger.file -INFO - user clicked on SignIn option
+2022-11-28 02:16:07,782 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-28 02:16:07,883 - logger.file -INFO - user is clicked on login button
+2022-11-28 02:16:08,142 - logger.file -INFO - user logged in into account
+2022-11-28 02:16:12,291 - logger.file -INFO - user clicked on Account button
+2022-11-28 02:16:12,409 - logger.file -INFO - user click on remove button
+2022-11-28 02:18:05,015 - logger.file -INFO - React Appis equal toReact App
+2022-11-28 02:18:05,154 - logger.file -INFO - user clicked on SignIn option
+2022-11-28 02:18:05,451 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-28 02:18:05,546 - logger.file -INFO - user is clicked on login button
+2022-11-28 02:18:05,843 - logger.file -INFO - user logged in into account
+2022-11-28 02:18:09,993 - logger.file -INFO - user clicked on Account button
+2022-11-28 02:18:10,129 - logger.file -INFO - user clicked on Add Address button
+2022-11-28 02:18:11,053 - logger.file -INFO - user successfully fill the form of new address
+2022-11-28 02:18:15,217 - logger.file -INFO - user successfully add the address
+2022-11-28 02:18:15,885 - logger.file -INFO - Message was displayed successfully
+2022-11-28 02:19:59,557 - logger.file -INFO - React Appis equal toReact App
+2022-11-28 02:19:59,688 - logger.file -INFO - user clicked on SignIn option
+2022-11-28 02:19:59,987 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-28 02:20:00,072 - logger.file -INFO - user is clicked on login button
+2022-11-28 02:20:00,392 - logger.file -INFO - user logged in into account
+2022-11-28 02:20:04,537 - logger.file -INFO - user clicked on Account button
+2022-11-28 02:20:04,653 - logger.file -INFO - user click on remove button
+2022-11-28 02:23:26,907 - logger.file -INFO - React Appis equal toReact App
+2022-11-28 02:23:27,046 - logger.file -INFO - user clicked on SignIn option
+2022-11-28 02:23:27,348 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-28 02:23:27,457 - logger.file -INFO - user is clicked on login button
+2022-11-28 02:23:27,782 - logger.file -INFO - user logged in into account
+2022-11-28 02:23:31,918 - logger.file -INFO - user clicked on Account button
+2022-11-28 02:23:32,060 - logger.file -INFO - user clicked on Add Address button
+2022-11-28 02:23:33,005 - logger.file -INFO - user successfully fill the form of new address
+2022-11-28 02:23:37,143 - logger.file -INFO - user successfully add the address
+2022-11-28 02:23:37,890 - logger.file -INFO - Message was displayed successfully
+2022-11-28 02:24:00,766 - logger.file -INFO - React Appis equal toReact App
+2022-11-28 02:24:00,909 - logger.file -INFO - user clicked on SignIn option
+2022-11-28 02:24:01,212 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-28 02:24:01,295 - logger.file -INFO - user is clicked on login button
+2022-11-28 02:24:01,575 - logger.file -INFO - user logged in into account
+2022-11-28 02:24:05,714 - logger.file -INFO - user clicked on Account button
+2022-11-28 02:24:05,832 - logger.file -INFO - user click on remove button
+2022-11-28 02:24:09,896 - logger.file -INFO - Address removed successfully
+2022-11-28 02:24:31,609 - logger.file -INFO - React Appis equal toReact App
+2022-11-28 02:24:31,735 - logger.file -INFO - user clicked on SignIn option
+2022-11-28 02:24:32,034 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-11-28 02:24:32,128 - logger.file -INFO - user is clicked on login button
+2022-11-28 02:24:32,406 - logger.file -INFO - user logged in into account
+2022-11-28 02:24:36,547 - logger.file -INFO - user clicked on Account button
+2022-11-28 02:24:36,687 - logger.file -INFO - user clicked on Add Address button
+2022-11-28 02:24:37,607 - logger.file -INFO - user successfully fill the form of new address
+2022-11-28 02:24:41,726 - logger.file -INFO - user successfully add the address
+2022-11-28 02:24:42,392 - logger.file -INFO - Message was displayed successfully
+2022-12-02 00:06:48,033 - logger.file -INFO - React Appis equal toReact App
+2022-12-02 00:58:27,178 - logger.file -INFO - React Appis equal toReact App
+2022-12-02 00:58:27,399 - logger.file -INFO - User click on All button
+2022-12-02 01:04:28,613 - logger.file -INFO - React Appis equal toReact App
+2022-12-02 01:04:28,756 - logger.file -INFO - User click on All button
+2022-12-02 01:22:37,594 - logger.file -INFO - React Appis equal toReact App
+2022-12-02 01:22:37,715 - logger.file -INFO - User click on All button
+2022-12-02 01:53:53,599 - logger.file -INFO - React Appis equal toReact App
+2022-12-02 01:53:53,756 - logger.file -INFO - User click on All button
+2022-12-02 01:53:58,043 - logger.file -INFO - Options are present
+2022-12-06 21:22:41,733 - logger.file -INFO - React Appis equal toReact App
+2022-12-06 21:22:41,900 - logger.file -INFO - user clicked on SignIn option
+2022-12-06 21:22:42,131 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-06 21:22:42,210 - logger.file -INFO - user is clicked on login button
+2022-12-06 21:22:42,821 - logger.file -INFO - user logged in into account
+2022-12-06 21:22:46,983 - logger.file -INFO - user clicked on Account button
+2022-12-06 21:22:47,092 - logger.file -INFO - user clicked on Add a payment method
+2022-12-06 21:22:47,923 - logger.file -INFO - user clicked on Add Your card
+2022-12-06 21:22:47,941 - logger.file -INFO - Payment  added sucessfully
+2022-12-08 21:28:08,890 - logger.file -INFO - React Appis equal toReact App
+2022-12-08 21:28:09,312 - logger.file -INFO - user clicked on SignIn option
+2022-12-08 21:28:09,593 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-08 21:28:09,676 - logger.file -INFO - user is clicked on login button
+2022-12-08 21:28:10,141 - logger.file -INFO - user logged in into account
+2022-12-08 21:28:14,307 - logger.file -INFO - user clicked on Account button
+2022-12-08 21:28:14,933 - logger.file -INFO - User clicked on Master Card link
+2022-12-08 21:28:15,024 - logger.file -INFO - user clicked on remove button
+2022-12-08 21:28:15,047 - logger.file -INFO - card successfully removed
+2022-12-11 02:29:36,660 - logger.file -INFO - React Appis equal toReact App
+2022-12-11 02:29:36,806 - logger.file -INFO - user clicked on SignIn option
+2022-12-11 02:29:37,104 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-11 02:29:37,232 - logger.file -INFO - user is clicked on login button
+2022-12-11 02:29:37,482 - logger.file -INFO - user logged in into account
+2022-12-11 02:36:39,586 - logger.file -INFO - React Appis equal toReact App
+2022-12-11 02:36:39,726 - logger.file -INFO - user clicked on SignIn option
+2022-12-11 02:36:40,000 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-11 02:36:40,089 - logger.file -INFO - user is clicked on login button
+2022-12-11 02:36:40,387 - logger.file -INFO - user logged in into account
+2022-12-11 02:40:42,379 - logger.file -INFO - React Appis equal toReact App
+2022-12-11 02:40:42,517 - logger.file -INFO - user clicked on SignIn option
+2022-12-11 02:40:42,783 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-11 02:40:42,870 - logger.file -INFO - user is clicked on login button
+2022-12-11 02:40:43,173 - logger.file -INFO - user logged in into account
+2022-12-11 02:42:51,153 - logger.file -INFO - React Appis equal toReact App
+2022-12-11 02:42:51,294 - logger.file -INFO - user clicked on SignIn option
+2022-12-11 02:42:51,562 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-11 02:42:51,647 - logger.file -INFO - user is clicked on login button
+2022-12-11 02:42:51,953 - logger.file -INFO - user logged in into account
+2022-12-11 02:48:48,321 - logger.file -INFO - React Appis equal toReact App
+2022-12-11 02:48:48,445 - logger.file -INFO - user clicked on SignIn option
+2022-12-11 02:48:48,732 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-11 02:48:48,814 - logger.file -INFO - user is clicked on login button
+2022-12-11 02:48:49,131 - logger.file -INFO - user logged in into account
+2022-12-11 02:58:53,215 - logger.file -INFO - React Appis equal toReact App
+2022-12-11 02:58:53,367 - logger.file -INFO - user clicked on SignIn option
+2022-12-11 02:58:53,650 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-11 02:58:53,745 - logger.file -INFO - user is clicked on login button
+2022-12-11 02:58:54,037 - logger.file -INFO - user logged in into account
+2022-12-11 03:00:27,395 - logger.file -INFO - React Appis equal toReact App
+2022-12-11 03:00:27,528 - logger.file -INFO - user clicked on SignIn option
+2022-12-11 03:00:27,805 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-11 03:00:27,899 - logger.file -INFO - user is clicked on login button
+2022-12-11 03:00:28,223 - logger.file -INFO - user logged in into account
+2022-12-11 03:02:12,229 - logger.file -INFO - React Appis equal toReact App
+2022-12-11 03:02:12,361 - logger.file -INFO - user clicked on SignIn option
+2022-12-11 03:02:12,652 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-11 03:02:12,731 - logger.file -INFO - user is clicked on login button
+2022-12-11 03:02:13,057 - logger.file -INFO - user logged in into account
+2022-12-11 03:06:39,225 - logger.file -INFO - React Appis equal toReact App
+2022-12-11 03:06:39,372 - logger.file -INFO - user clicked on SignIn option
+2022-12-11 03:06:39,679 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-11 03:06:39,770 - logger.file -INFO - user is clicked on login button
+2022-12-11 03:06:40,079 - logger.file -INFO - user logged in into account
+2022-12-11 03:13:12,397 - logger.file -INFO - React Appis equal toReact App
+2022-12-11 03:13:12,532 - logger.file -INFO - user clicked on SignIn option
+2022-12-11 03:13:12,807 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-11 03:13:12,894 - logger.file -INFO - user is clicked on login button
+2022-12-11 03:13:13,191 - logger.file -INFO - user logged in into account
+2022-12-11 03:18:39,055 - logger.file -INFO - React Appis equal toReact App
+2022-12-11 03:18:39,193 - logger.file -INFO - user clicked on SignIn option
+2022-12-11 03:18:39,508 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-11 03:18:39,594 - logger.file -INFO - user is clicked on login button
+2022-12-11 03:18:39,900 - logger.file -INFO - user logged in into account
+2022-12-11 03:25:07,229 - logger.file -INFO - React Appis equal toReact App
+2022-12-11 03:25:07,352 - logger.file -INFO - user clicked on SignIn option
+2022-12-11 03:25:07,609 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-11 03:25:07,687 - logger.file -INFO - user is clicked on login button
+2022-12-11 03:25:07,949 - logger.file -INFO - user logged in into account
+2022-12-15 00:28:27,237 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 00:28:27,362 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 00:28:27,640 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 00:28:27,742 - logger.file -INFO - user is clicked on login button
+2022-12-15 00:28:28,098 - logger.file -INFO - user logged in into account
+2022-12-15 00:28:32,234 - logger.file -INFO - user clicked on Account button
+2022-12-15 00:34:27,622 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 00:34:27,751 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 00:34:28,028 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 00:34:28,115 - logger.file -INFO - user is clicked on login button
+2022-12-15 00:34:28,553 - logger.file -INFO - user logged in into account
+2022-12-15 00:34:32,694 - logger.file -INFO - user clicked on Account button
+2022-12-15 00:37:01,963 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 00:37:02,106 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 00:37:02,366 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 00:37:02,455 - logger.file -INFO - user is clicked on login button
+2022-12-15 00:37:02,750 - logger.file -INFO - user logged in into account
+2022-12-15 00:37:06,885 - logger.file -INFO - user clicked on Account button
+2022-12-15 00:42:46,433 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 00:42:46,555 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 00:42:46,837 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 00:42:46,918 - logger.file -INFO - user is clicked on login button
+2022-12-15 00:42:47,187 - logger.file -INFO - user logged in into account
+2022-12-15 00:42:51,318 - logger.file -INFO - user clicked on Account button
+2022-12-15 00:42:59,666 - logger.file -INFO - user updated nameCapstone and phone number421-555-4200
+2022-12-15 00:42:59,748 - logger.file -INFO - user clicked on update button
+2022-12-15 00:42:59,774 - logger.file -INFO - user updated profile information
+2022-12-15 00:44:11,197 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 00:44:11,331 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 00:44:11,599 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 00:44:11,684 - logger.file -INFO - user is clicked on login button
+2022-12-15 00:44:12,001 - logger.file -INFO - user logged in into account
+2022-12-15 00:44:16,140 - logger.file -INFO - user clicked on Account button
+2022-12-15 00:44:20,572 - logger.file -INFO - user updated nameCapstone and phone number421-555-4200
+2022-12-15 00:44:20,656 - logger.file -INFO - user clicked on update button
+2022-12-15 00:44:20,682 - logger.file -INFO - user updated profile information
+2022-12-15 00:58:16,536 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 00:58:16,670 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 00:58:16,940 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 00:58:17,025 - logger.file -INFO - user is clicked on login button
+2022-12-15 00:58:17,306 - logger.file -INFO - user logged in into account
+2022-12-15 00:58:21,434 - logger.file -INFO - user clicked on Account button
+2022-12-15 00:58:21,551 - logger.file -INFO - user clicked on Add a payment method
+2022-12-15 00:58:22,132 - logger.file -INFO - user clicked on Add Your card
+2022-12-15 00:58:22,817 - logger.file -INFO - Payment  added sucessfully
+2022-12-15 01:04:36,046 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 01:04:36,180 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 01:04:36,454 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 01:04:36,536 - logger.file -INFO - user is clicked on login button
+2022-12-15 01:04:36,870 - logger.file -INFO - user logged in into account
+2022-12-15 01:04:41,003 - logger.file -INFO - user clicked on Account button
+2022-12-15 01:04:41,608 - logger.file -INFO - User clicked on Master Card link
+2022-12-15 01:04:41,690 - logger.file -INFO - user Clicked on Edit card button
+2022-12-15 01:04:42,286 - logger.file -INFO - user succesfully edit their card information
+2022-12-15 01:04:42,372 - logger.file -INFO - user clicked on Update Your Card Button
+2022-12-15 01:07:17,321 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 01:07:17,466 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 01:07:17,738 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 01:07:17,823 - logger.file -INFO - user is clicked on login button
+2022-12-15 01:07:18,121 - logger.file -INFO - user logged in into account
+2022-12-15 01:07:22,279 - logger.file -INFO - user clicked on Account button
+2022-12-15 01:07:22,911 - logger.file -INFO - User clicked on Master Card link
+2022-12-15 01:07:22,992 - logger.file -INFO - user Clicked on Edit card button
+2022-12-15 01:07:23,568 - logger.file -INFO - user succesfully edit their card information
+2022-12-15 01:07:23,643 - logger.file -INFO - user clicked on Update Your Card Button
+2022-12-15 01:12:56,620 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 01:12:56,761 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 01:12:57,021 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 01:12:57,102 - logger.file -INFO - user is clicked on login button
+2022-12-15 01:12:57,644 - logger.file -INFO - user logged in into account
+2022-12-15 01:13:01,786 - logger.file -INFO - user clicked on Account button
+2022-12-15 01:13:02,397 - logger.file -INFO - User clicked on Master Card link
+2022-12-15 01:13:02,477 - logger.file -INFO - user Clicked on Edit card button
+2022-12-15 01:13:03,049 - logger.file -INFO - user succesfully edit their card information
+2022-12-15 01:13:03,129 - logger.file -INFO - user clicked on Update Your Card Button
+2022-12-15 01:15:30,297 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 01:15:30,447 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 01:15:30,728 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 01:15:30,808 - logger.file -INFO - user is clicked on login button
+2022-12-15 01:15:31,103 - logger.file -INFO - user logged in into account
+2022-12-15 01:15:35,242 - logger.file -INFO - user clicked on Account button
+2022-12-15 01:15:35,856 - logger.file -INFO - User clicked on Master Card link
+2022-12-15 01:15:35,940 - logger.file -INFO - user Clicked on Edit card button
+2022-12-15 01:15:36,512 - logger.file -INFO - user succesfully edit their card information
+2022-12-15 01:15:36,612 - logger.file -INFO - user clicked on Update Your Card Button
+2022-12-15 01:15:37,256 - logger.file -INFO - Payment updated sucessfully
+2022-12-15 02:17:35,965 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 02:17:36,100 - logger.file -INFO - User click on All button
+2022-12-15 02:17:40,172 - logger.file -INFO - User is on Electronics
+2022-12-15 02:17:40,431 - logger.file -INFO - below options are present in department
+2022-12-15 02:17:44,113 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 02:17:44,241 - logger.file -INFO - User click on All button
+2022-12-15 02:17:48,278 - logger.file -INFO - User is on Computers
+2022-12-15 02:17:48,458 - logger.file -INFO - below options are present in department
+2022-12-15 02:17:52,901 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 02:17:53,005 - logger.file -INFO - User click on All button
+2022-12-15 02:17:57,041 - logger.file -INFO - User is on Smart Home
+2022-12-15 02:17:57,220 - logger.file -INFO - below options are present in department
+2022-12-15 02:18:01,394 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 02:18:01,521 - logger.file -INFO - User click on All button
+2022-12-15 02:18:05,546 - logger.file -INFO - User is on Sports
+2022-12-15 02:18:05,717 - logger.file -INFO - below options are present in department
+2022-12-15 02:18:09,849 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 02:18:09,971 - logger.file -INFO - User click on All button
+2022-12-15 02:18:14,008 - logger.file -INFO - User is on Automotive
+2022-12-15 02:18:14,179 - logger.file -INFO - below options are present in department
+2022-12-15 02:34:40,419 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 02:34:40,533 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 02:34:40,802 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 02:34:40,887 - logger.file -INFO - user is clicked on login button
+2022-12-15 02:34:41,254 - logger.file -INFO - user logged in into account
+2022-12-15 02:53:48,532 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 02:53:48,650 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 02:53:48,929 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 02:53:49,011 - logger.file -INFO - user is clicked on login button
+2022-12-15 02:53:49,299 - logger.file -INFO - user logged in into account
+2022-12-15 02:53:53,410 - logger.file -INFO - User change the Category to smartHome option
+2022-12-15 02:53:53,531 - logger.file -INFO - User search for kasa outdoor smart plug item
+2022-12-15 02:53:53,613 - logger.file -INFO - user click on search button
+2022-12-15 02:53:53,761 - logger.file -INFO - user click on Product
+2022-12-15 02:57:40,275 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 02:57:40,409 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 02:57:40,683 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 02:57:40,769 - logger.file -INFO - user is clicked on login button
+2022-12-15 02:57:41,071 - logger.file -INFO - user logged in into account
+2022-12-15 02:57:45,176 - logger.file -INFO - User change the Category to smartHome option
+2022-12-15 02:57:45,291 - logger.file -INFO - User search for kasa outdoor smart plug item
+2022-12-15 02:57:45,367 - logger.file -INFO - user click on search button
+2022-12-15 02:57:45,572 - logger.file -INFO - user click on Product
+2022-12-15 02:57:45,722 - logger.file -INFO - User selected 2from smartHome
+2022-12-15 02:57:45,814 - logger.file -INFO - user clicked on cart icon at the top of page
+2022-12-15 02:57:45,961 - logger.file -INFO - Cart button displays 2
+2022-12-15 02:57:45,961 - logger.file -INFO - The quantity in the cart changed to 2
+2022-12-15 03:27:23,966 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 03:27:24,117 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 03:40:06,948 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 03:40:07,087 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 03:40:07,361 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 03:40:07,443 - logger.file -INFO - user is clicked on login button
+2022-12-15 03:40:07,797 - logger.file -INFO - user logged in into account
+2022-12-15 03:40:11,915 - logger.file -INFO - User change the Category to smartHome option
+2022-12-15 03:40:12,031 - logger.file -INFO - User search for kasa outdoor smart plug item
+2022-12-15 03:40:12,102 - logger.file -INFO - user click on search button
+2022-12-15 03:40:12,259 - logger.file -INFO - user click on Product
+2022-12-15 03:40:12,414 - logger.file -INFO - User selected 2from smartHome
+2022-12-15 03:40:12,511 - logger.file -INFO - user clicked on cart icon at the top of page
+2022-12-15 03:40:12,537 - logger.file -INFO - Cart button displays 2
+2022-12-15 03:40:12,538 - logger.file -INFO - The quantity in the cart changed to 2
+2022-12-15 03:40:16,701 - logger.file -INFO - Order
+2022-12-15 03:40:16,801 - logger.file -INFO - User clicked on proceddChechoutButtn
+2022-12-15 03:40:16,903 - logger.file -INFO - User clicked on addAddressbtn
+2022-12-15 03:40:17,683 - logger.file -INFO - user successfully fill the form of new address
+2022-12-15 03:40:21,841 - logger.file -INFO - user successfully add the address
+2022-12-15 03:49:11,599 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 03:49:11,728 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 03:49:12,046 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 03:49:12,126 - logger.file -INFO - user is clicked on login button
+2022-12-15 03:49:12,406 - logger.file -INFO - user logged in into account
+2022-12-15 03:49:16,525 - logger.file -INFO - User change the Category to smartHome option
+2022-12-15 03:49:16,642 - logger.file -INFO - User search for kasa outdoor smart plug item
+2022-12-15 03:49:16,712 - logger.file -INFO - user click on search button
+2022-12-15 03:49:16,870 - logger.file -INFO - user click on Product
+2022-12-15 03:49:17,037 - logger.file -INFO - User selected 2from smartHome
+2022-12-15 03:49:17,130 - logger.file -INFO - user clicked on cart icon at the top of page
+2022-12-15 03:49:17,155 - logger.file -INFO - Cart button displays 2
+2022-12-15 03:49:17,155 - logger.file -INFO - The quantity in the cart changed to 2
+2022-12-15 03:49:21,348 - logger.file -INFO - Order
+2022-12-15 03:49:21,449 - logger.file -INFO - User clicked on proceddChechoutButtn
+2022-12-15 03:49:21,554 - logger.file -INFO - User clicked on addAddressbtn
+2022-12-15 03:49:22,349 - logger.file -INFO - user successfully fill the form of new address
+2022-12-15 03:49:26,502 - logger.file -INFO - user successfully add the address
+2022-12-15 04:01:46,357 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 04:01:46,488 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 04:01:46,747 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 04:01:46,836 - logger.file -INFO - user is clicked on login button
+2022-12-15 04:01:47,112 - logger.file -INFO - user logged in into account
+2022-12-15 04:01:51,219 - logger.file -INFO - User change the Category to smartHome option
+2022-12-15 04:01:51,340 - logger.file -INFO - User search for kasa outdoor smart plug item
+2022-12-15 04:01:51,411 - logger.file -INFO - user click on search button
+2022-12-15 04:01:51,611 - logger.file -INFO - user click on Product
+2022-12-15 04:01:51,759 - logger.file -INFO - User selected 2from smartHome
+2022-12-15 04:01:51,857 - logger.file -INFO - user clicked on cart icon at the top of page
+2022-12-15 04:01:51,880 - logger.file -INFO - Cart button displays 2
+2022-12-15 04:01:51,881 - logger.file -INFO - The quantity in the cart changed to 2
+2022-12-15 04:01:56,018 - logger.file -INFO - Order
+2022-12-15 04:01:56,119 - logger.file -INFO - User clicked on proceddChechoutButtn
+2022-12-15 04:01:56,224 - logger.file -INFO - User clicked on addAddressbtn
+2022-12-15 04:01:57,019 - logger.file -INFO - user successfully fill the form of new address
+2022-12-15 04:02:01,161 - logger.file -INFO - user successfully add the address
+2022-12-15 04:05:20,570 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 04:05:20,714 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 04:05:20,998 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 04:05:21,077 - logger.file -INFO - user is clicked on login button
+2022-12-15 04:05:21,374 - logger.file -INFO - user logged in into account
+2022-12-15 04:05:25,492 - logger.file -INFO - User change the Category to smartHome option
+2022-12-15 04:05:25,607 - logger.file -INFO - User search for kasa outdoor smart plug item
+2022-12-15 04:05:25,679 - logger.file -INFO - user click on search button
+2022-12-15 04:05:25,829 - logger.file -INFO - user click on Product
+2022-12-15 04:05:25,982 - logger.file -INFO - User selected 2from smartHome
+2022-12-15 04:05:26,082 - logger.file -INFO - user clicked on cart icon at the top of page
+2022-12-15 04:05:26,105 - logger.file -INFO - Cart button displays 2
+2022-12-15 04:05:26,105 - logger.file -INFO - The quantity in the cart changed to 2
+2022-12-15 04:05:30,217 - logger.file -INFO - Order
+2022-12-15 04:05:30,318 - logger.file -INFO - User clicked on proceddChechoutButtn
+2022-12-15 04:05:30,425 - logger.file -INFO - User clicked on addAddressbtn
+2022-12-15 04:05:31,236 - logger.file -INFO - user successfully fill the form of new address
+2022-12-15 04:05:35,363 - logger.file -INFO - user successfully add the address
+2022-12-15 04:20:09,624 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 04:20:09,738 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 04:20:10,019 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 04:20:10,101 - logger.file -INFO - user is clicked on login button
+2022-12-15 04:20:10,589 - logger.file -INFO - user logged in into account
+2022-12-15 04:20:14,697 - logger.file -INFO - User change the Category to smartHome option
+2022-12-15 04:20:14,820 - logger.file -INFO - User search for kasa outdoor smart plug item
+2022-12-15 04:20:14,897 - logger.file -INFO - user click on search button
+2022-12-15 04:20:15,105 - logger.file -INFO - user click on Product
+2022-12-15 04:20:15,257 - logger.file -INFO - User selected 2from smartHome
+2022-12-15 04:20:15,352 - logger.file -INFO - user clicked on cart icon at the top of page
+2022-12-15 04:20:15,376 - logger.file -INFO - Cart button displays 2
+2022-12-15 04:20:15,376 - logger.file -INFO - The quantity in the cart changed to 2
+2022-12-15 04:20:19,565 - logger.file -INFO - Order
+2022-12-15 04:20:19,674 - logger.file -INFO - User clicked on proceddChechoutButtn
+2022-12-15 04:20:19,780 - logger.file -INFO - User clicked on addAddressbtn
+2022-12-15 04:20:20,598 - logger.file -INFO - user successfully fill the form of new address
+2022-12-15 04:20:24,730 - logger.file -INFO - user successfully add the address
+2022-12-15 04:23:37,293 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 04:23:37,435 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 04:23:37,703 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 04:23:37,785 - logger.file -INFO - user is clicked on login button
+2022-12-15 04:23:38,104 - logger.file -INFO - user logged in into account
+2022-12-15 04:23:42,213 - logger.file -INFO - User change the Category to smartHome option
+2022-12-15 04:23:42,332 - logger.file -INFO - User search for kasa outdoor smart plug item
+2022-12-15 04:23:42,403 - logger.file -INFO - user click on search button
+2022-12-15 04:23:42,601 - logger.file -INFO - user click on Product
+2022-12-15 04:23:42,741 - logger.file -INFO - User selected 2from smartHome
+2022-12-15 04:23:42,815 - logger.file -INFO - user clicked on cart icon at the top of page
+2022-12-15 04:23:42,859 - logger.file -INFO - Cart button displays 2
+2022-12-15 04:23:42,859 - logger.file -INFO - The quantity in the cart changed to 2
+2022-12-15 04:23:47,010 - logger.file -INFO - Order
+2022-12-15 04:23:47,110 - logger.file -INFO - User clicked on proceddChechoutButtn
+2022-12-15 04:23:47,213 - logger.file -INFO - User clicked on addAddressbtn
+2022-12-15 04:23:48,010 - logger.file -INFO - user successfully fill the form of new address
+2022-12-15 04:23:52,133 - logger.file -INFO - user successfully add the address
+2022-12-15 04:37:42,785 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 04:37:42,939 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 04:37:43,220 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 04:37:43,299 - logger.file -INFO - user is clicked on login button
+2022-12-15 04:37:43,556 - logger.file -INFO - user logged in into account
+2022-12-15 04:37:47,663 - logger.file -INFO - User change the Category to smartHome option
+2022-12-15 04:37:47,784 - logger.file -INFO - User search for kasa outdoor smart plug item
+2022-12-15 04:37:47,855 - logger.file -INFO - user click on search button
+2022-12-15 04:37:48,054 - logger.file -INFO - user click on Product
+2022-12-15 04:37:48,214 - logger.file -INFO - User selected 2from smartHome
+2022-12-15 04:37:48,288 - logger.file -INFO - user clicked on cart icon at the top of page
+2022-12-15 04:37:48,336 - logger.file -INFO - Cart button displays 2
+2022-12-15 04:37:48,336 - logger.file -INFO - The quantity in the cart changed to 2
+2022-12-15 04:37:52,485 - logger.file -INFO - Order
+2022-12-15 04:37:52,594 - logger.file -INFO - User clicked on proceddChechoutButtn
+2022-12-15 04:37:52,696 - logger.file -INFO - User clicked on addAddressbtn
+2022-12-15 04:37:53,515 - logger.file -INFO - user successfully fill the form of new address
+2022-12-15 04:37:57,683 - logger.file -INFO - user successfully add the address
+2022-12-15 04:37:57,838 - logger.file -INFO - User clicked on addPaymentMethod
+2022-12-15 04:37:58,468 - logger.file -INFO - user clicked on Add Your card
+2022-12-15 04:37:58,622 - logger.file -INFO - User clicked on placed ordered button
+2022-12-15 04:43:45,235 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 04:43:45,353 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 04:43:45,631 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 04:43:45,709 - logger.file -INFO - user is clicked on login button
+2022-12-15 04:43:46,016 - logger.file -INFO - user logged in into account
+2022-12-15 04:43:50,139 - logger.file -INFO - User change the Category to smartHome option
+2022-12-15 04:43:50,258 - logger.file -INFO - User search for kasa outdoor smart plug item
+2022-12-15 04:43:50,329 - logger.file -INFO - user click on search button
+2022-12-15 04:43:50,531 - logger.file -INFO - user click on Product
+2022-12-15 04:43:50,683 - logger.file -INFO - User selected 2from smartHome
+2022-12-15 04:43:50,777 - logger.file -INFO - user clicked on cart icon at the top of page
+2022-12-15 04:43:50,868 - logger.file -INFO - Cart button displays 2
+2022-12-15 04:43:50,868 - logger.file -INFO - The quantity in the cart changed to 2
+2022-12-15 04:43:55,033 - logger.file -INFO - Order
+2022-12-15 04:43:55,132 - logger.file -INFO - User clicked on proceddChechoutButtn
+2022-12-15 04:43:55,238 - logger.file -INFO - User clicked on addAddressbtn
+2022-12-15 04:43:56,043 - logger.file -INFO - user successfully fill the form of new address
+2022-12-15 04:44:00,167 - logger.file -INFO - user successfully add the address
+2022-12-15 04:45:55,040 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 04:45:55,171 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 04:45:55,435 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 04:45:55,521 - logger.file -INFO - user is clicked on login button
+2022-12-15 04:45:55,814 - logger.file -INFO - user logged in into account
+2022-12-15 04:45:59,924 - logger.file -INFO - User change the Category to smartHome option
+2022-12-15 04:46:00,046 - logger.file -INFO - User search for kasa outdoor smart plug item
+2022-12-15 04:46:00,118 - logger.file -INFO - user click on search button
+2022-12-15 04:46:00,269 - logger.file -INFO - user click on Product
+2022-12-15 04:46:00,430 - logger.file -INFO - User selected 2from smartHome
+2022-12-15 04:46:00,522 - logger.file -INFO - user clicked on cart icon at the top of page
+2022-12-15 04:46:00,546 - logger.file -INFO - Cart button displays 2
+2022-12-15 04:46:00,546 - logger.file -INFO - The quantity in the cart changed to 2
+2022-12-15 04:46:04,717 - logger.file -INFO - Order
+2022-12-15 04:46:04,815 - logger.file -INFO - User clicked on proceddChechoutButtn
+2022-12-15 04:46:04,924 - logger.file -INFO - User clicked on addAddressbtn
+2022-12-15 04:46:05,732 - logger.file -INFO - user successfully fill the form of new address
+2022-12-15 04:46:09,857 - logger.file -INFO - user successfully add the address
+2022-12-15 04:46:09,965 - logger.file -INFO - User clicked on addPaymentMethod
+2022-12-15 04:46:10,600 - logger.file -INFO - user clicked on Add Your card
+2022-12-15 04:47:03,666 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 04:47:03,778 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 04:47:04,045 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 04:47:04,129 - logger.file -INFO - user is clicked on login button
+2022-12-15 04:47:04,431 - logger.file -INFO - user logged in into account
+2022-12-15 04:47:08,544 - logger.file -INFO - User change the Category to smartHome option
+2022-12-15 04:47:08,662 - logger.file -INFO - User search for kasa outdoor smart plug item
+2022-12-15 04:47:08,735 - logger.file -INFO - user click on search button
+2022-12-15 04:47:08,891 - logger.file -INFO - user click on Product
+2022-12-15 04:47:09,041 - logger.file -INFO - User selected 2from smartHome
+2022-12-15 04:47:09,136 - logger.file -INFO - user clicked on cart icon at the top of page
+2022-12-15 04:47:09,161 - logger.file -INFO - Cart button displays 2
+2022-12-15 04:47:09,161 - logger.file -INFO - The quantity in the cart changed to 2
+2022-12-15 04:47:13,304 - logger.file -INFO - Order
+2022-12-15 04:47:13,408 - logger.file -INFO - User clicked on proceddChechoutButtn
+2022-12-15 04:47:13,516 - logger.file -INFO - User clicked on addAddressbtn
+2022-12-15 04:47:14,323 - logger.file -INFO - user successfully fill the form of new address
+2022-12-15 04:47:18,434 - logger.file -INFO - user successfully add the address
+2022-12-15 04:47:18,567 - logger.file -INFO - User clicked on addPaymentMethod
+2022-12-15 04:47:19,192 - logger.file -INFO - user clicked on Add Your card
+2022-12-15 04:47:56,281 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 04:47:56,394 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 04:47:56,673 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 04:47:56,752 - logger.file -INFO - user is clicked on login button
+2022-12-15 04:47:57,060 - logger.file -INFO - user logged in into account
+2022-12-15 04:48:01,172 - logger.file -INFO - User change the Category to smartHome option
+2022-12-15 04:48:01,294 - logger.file -INFO - User search for kasa outdoor smart plug item
+2022-12-15 04:48:01,365 - logger.file -INFO - user click on search button
+2022-12-15 04:48:01,516 - logger.file -INFO - user click on Product
+2022-12-15 04:48:01,744 - logger.file -INFO - User selected 2from smartHome
+2022-12-15 04:48:01,842 - logger.file -INFO - user clicked on cart icon at the top of page
+2022-12-15 04:48:01,865 - logger.file -INFO - Cart button displays 2
+2022-12-15 04:48:01,865 - logger.file -INFO - The quantity in the cart changed to 2
+2022-12-15 04:48:06,034 - logger.file -INFO - Order
+2022-12-15 04:48:06,134 - logger.file -INFO - User clicked on proceddChechoutButtn
+2022-12-15 04:48:06,238 - logger.file -INFO - User clicked on addAddressbtn
+2022-12-15 04:48:07,051 - logger.file -INFO - user successfully fill the form of new address
+2022-12-15 04:48:11,182 - logger.file -INFO - user successfully add the address
+2022-12-15 04:48:51,037 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 04:48:51,171 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 04:48:51,442 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 04:48:51,523 - logger.file -INFO - user is clicked on login button
+2022-12-15 04:48:51,832 - logger.file -INFO - user logged in into account
+2022-12-15 04:48:55,952 - logger.file -INFO - User change the Category to smartHome option
+2022-12-15 04:48:56,133 - logger.file -INFO - User search for kasa outdoor smart plug item
+2022-12-15 04:48:56,207 - logger.file -INFO - user click on search button
+2022-12-15 04:48:56,411 - logger.file -INFO - user click on Product
+2022-12-15 04:48:56,571 - logger.file -INFO - User selected 2from smartHome
+2022-12-15 04:48:56,666 - logger.file -INFO - user clicked on cart icon at the top of page
+2022-12-15 04:48:56,688 - logger.file -INFO - Cart button displays 2
+2022-12-15 04:48:56,689 - logger.file -INFO - The quantity in the cart changed to 2
+2022-12-15 04:49:00,870 - logger.file -INFO - Order
+2022-12-15 04:49:00,975 - logger.file -INFO - User clicked on proceddChechoutButtn
+2022-12-15 04:49:01,085 - logger.file -INFO - User clicked on addAddressbtn
+2022-12-15 04:49:01,895 - logger.file -INFO - user successfully fill the form of new address
+2022-12-15 04:49:06,038 - logger.file -INFO - user successfully add the address
+2022-12-15 04:49:06,163 - logger.file -INFO - User clicked on addPaymentMethod
+2022-12-15 04:49:06,804 - logger.file -INFO - user clicked on Add Your card
+2022-12-15 04:49:51,063 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 04:49:51,178 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 04:49:51,458 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 04:49:51,535 - logger.file -INFO - user is clicked on login button
+2022-12-15 04:49:51,831 - logger.file -INFO - user logged in into account
+2022-12-15 04:49:55,951 - logger.file -INFO - User change the Category to smartHome option
+2022-12-15 04:49:56,064 - logger.file -INFO - User search for kasa outdoor smart plug item
+2022-12-15 04:49:56,133 - logger.file -INFO - user click on search button
+2022-12-15 04:49:56,273 - logger.file -INFO - user click on Product
+2022-12-15 04:49:56,424 - logger.file -INFO - User selected 2from smartHome
+2022-12-15 04:49:56,516 - logger.file -INFO - user clicked on cart icon at the top of page
+2022-12-15 04:49:56,540 - logger.file -INFO - Cart button displays 2
+2022-12-15 04:49:56,540 - logger.file -INFO - The quantity in the cart changed to 2
+2022-12-15 04:50:00,680 - logger.file -INFO - Order
+2022-12-15 04:50:00,784 - logger.file -INFO - User clicked on proceddChechoutButtn
+2022-12-15 04:50:00,899 - logger.file -INFO - User clicked on addAddressbtn
+2022-12-15 04:50:01,699 - logger.file -INFO - user successfully fill the form of new address
+2022-12-15 04:50:05,812 - logger.file -INFO - user successfully add the address
+2022-12-15 04:51:21,025 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 04:51:21,171 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 04:51:21,431 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 04:51:21,509 - logger.file -INFO - user is clicked on login button
+2022-12-15 04:51:21,819 - logger.file -INFO - user logged in into account
+2022-12-15 04:51:25,957 - logger.file -INFO - User change the Category to smartHome option
+2022-12-15 04:51:26,076 - logger.file -INFO - User search for kasa outdoor smart plug item
+2022-12-15 04:51:26,147 - logger.file -INFO - user click on search button
+2022-12-15 04:51:26,301 - logger.file -INFO - user click on Product
+2022-12-15 04:51:26,456 - logger.file -INFO - User selected 2from smartHome
+2022-12-15 04:51:26,529 - logger.file -INFO - user clicked on cart icon at the top of page
+2022-12-15 04:51:26,572 - logger.file -INFO - Cart button displays 2
+2022-12-15 04:51:26,572 - logger.file -INFO - The quantity in the cart changed to 2
+2022-12-15 04:51:30,735 - logger.file -INFO - Order
+2022-12-15 04:51:30,832 - logger.file -INFO - User clicked on proceddChechoutButtn
+2022-12-15 04:51:30,935 - logger.file -INFO - User clicked on addAddressbtn
+2022-12-15 04:51:31,712 - logger.file -INFO - user successfully fill the form of new address
+2022-12-15 04:51:35,828 - logger.file -INFO - user successfully add the address
+2022-12-15 04:52:57,829 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 04:52:57,962 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 04:52:58,235 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 04:52:58,317 - logger.file -INFO - user is clicked on login button
+2022-12-15 04:52:58,584 - logger.file -INFO - user logged in into account
+2022-12-15 04:53:02,698 - logger.file -INFO - User change the Category to smartHome option
+2022-12-15 04:53:02,812 - logger.file -INFO - User search for kasa outdoor smart plug item
+2022-12-15 04:53:02,884 - logger.file -INFO - user click on search button
+2022-12-15 04:53:03,082 - logger.file -INFO - user click on Product
+2022-12-15 04:53:03,233 - logger.file -INFO - User selected 2from smartHome
+2022-12-15 04:53:03,306 - logger.file -INFO - user clicked on cart icon at the top of page
+2022-12-15 04:53:03,329 - logger.file -INFO - Cart button displays 2
+2022-12-15 04:53:03,329 - logger.file -INFO - The quantity in the cart changed to 2
+2022-12-15 04:53:07,476 - logger.file -INFO - Order
+2022-12-15 04:53:07,575 - logger.file -INFO - User clicked on proceddChechoutButtn
+2022-12-15 04:53:07,681 - logger.file -INFO - User clicked on addAddressbtn
+2022-12-15 04:53:12,587 - logger.file -INFO - user successfully fill the form of new address
+2022-12-15 04:53:16,720 - logger.file -INFO - user successfully add the address
+2022-12-15 04:53:16,835 - logger.file -INFO - User clicked on addPaymentMethod
+2022-12-15 04:53:17,408 - logger.file -INFO - user clicked on Add Your card
+2022-12-15 04:53:17,492 - logger.file -INFO - User clicked on placed ordered button
+2022-12-15 04:59:48,430 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 04:59:48,561 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 04:59:48,836 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 04:59:48,913 - logger.file -INFO - user is clicked on login button
+2022-12-15 04:59:49,220 - logger.file -INFO - user logged in into account
+2022-12-15 04:59:53,337 - logger.file -INFO - User change the Category to smartHome option
+2022-12-15 04:59:53,451 - logger.file -INFO - User search for kasa outdoor smart plug item
+2022-12-15 04:59:53,522 - logger.file -INFO - user click on search button
+2022-12-15 04:59:53,678 - logger.file -INFO - user click on Product
+2022-12-15 04:59:53,833 - logger.file -INFO - User selected 2from smartHome
+2022-12-15 04:59:53,907 - logger.file -INFO - user clicked on cart icon at the top of page
+2022-12-15 04:59:53,999 - logger.file -INFO - Cart button displays 2
+2022-12-15 04:59:53,999 - logger.file -INFO - The quantity in the cart changed to 2
+2022-12-15 04:59:58,122 - logger.file -INFO - Order
+2022-12-15 04:59:58,220 - logger.file -INFO - User clicked on proceddChechoutButtn
+2022-12-15 04:59:58,332 - logger.file -INFO - User clicked on addAddressbtn
+2022-12-15 05:00:03,241 - logger.file -INFO - user successfully fill the form of new address
+2022-12-15 05:00:07,364 - logger.file -INFO - user successfully add the address
+2022-12-15 05:00:37,237 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 05:00:37,368 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 05:00:37,621 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 05:00:37,703 - logger.file -INFO - user is clicked on login button
+2022-12-15 05:00:38,023 - logger.file -INFO - user logged in into account
+2022-12-15 05:00:42,143 - logger.file -INFO - User change the Category to smartHome option
+2022-12-15 05:00:42,264 - logger.file -INFO - User search for kasa outdoor smart plug item
+2022-12-15 05:00:42,336 - logger.file -INFO - user click on search button
+2022-12-15 05:00:42,482 - logger.file -INFO - user click on Product
+2022-12-15 05:00:42,655 - logger.file -INFO - User selected 2from smartHome
+2022-12-15 05:00:42,747 - logger.file -INFO - user clicked on cart icon at the top of page
+2022-12-15 05:00:42,772 - logger.file -INFO - Cart button displays 2
+2022-12-15 05:00:42,772 - logger.file -INFO - The quantity in the cart changed to 2
+2022-12-15 05:00:47,004 - logger.file -INFO - Order
+2022-12-15 05:00:47,108 - logger.file -INFO - User clicked on proceddChechoutButtn
+2022-12-15 05:00:47,221 - logger.file -INFO - User clicked on addAddressbtn
+2022-12-15 05:00:52,060 - logger.file -INFO - user successfully fill the form of new address
+2022-12-15 05:00:56,182 - logger.file -INFO - user successfully add the address
+2022-12-15 05:02:20,507 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 05:02:20,668 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 05:02:20,984 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 05:02:21,065 - logger.file -INFO - user is clicked on login button
+2022-12-15 05:02:21,388 - logger.file -INFO - user logged in into account
+2022-12-15 05:02:25,490 - logger.file -INFO - User change the Category to smartHome option
+2022-12-15 05:02:25,616 - logger.file -INFO - User search for kasa outdoor smart plug item
+2022-12-15 05:02:25,691 - logger.file -INFO - user click on search button
+2022-12-15 05:02:25,839 - logger.file -INFO - user click on Product
+2022-12-15 05:02:25,997 - logger.file -INFO - User selected 2from smartHome
+2022-12-15 05:02:26,072 - logger.file -INFO - user clicked on cart icon at the top of page
+2022-12-15 05:02:26,095 - logger.file -INFO - Cart button displays 2
+2022-12-15 05:02:26,095 - logger.file -INFO - The quantity in the cart changed to 2
+2022-12-15 05:02:30,242 - logger.file -INFO - Order
+2022-12-15 05:02:30,343 - logger.file -INFO - User clicked on proceddChechoutButtn
+2022-12-15 05:02:30,455 - logger.file -INFO - User clicked on addAddressbtn
+2022-12-15 05:02:35,464 - logger.file -INFO - user successfully fill the form of new address
+2022-12-15 05:02:39,612 - logger.file -INFO - user successfully add the address
+2022-12-15 05:02:39,716 - logger.file -INFO - User clicked on addPaymentMethod
+2022-12-15 05:02:40,237 - logger.file -INFO - user clicked on Add Your card
+2022-12-15 05:02:40,313 - logger.file -INFO - User clicked on placed ordered button
+2022-12-15 05:04:54,600 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 05:04:54,736 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 05:04:55,011 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 05:04:55,092 - logger.file -INFO - user is clicked on login button
+2022-12-15 05:04:55,407 - logger.file -INFO - user logged in into account
+2022-12-15 05:04:59,523 - logger.file -INFO - User change the Category to smartHome option
+2022-12-15 05:04:59,646 - logger.file -INFO - User search for kasa outdoor smart plug item
+2022-12-15 05:04:59,724 - logger.file -INFO - user click on search button
+2022-12-15 05:04:59,880 - logger.file -INFO - user click on Product
+2022-12-15 05:05:00,038 - logger.file -INFO - User selected 2from smartHome
+2022-12-15 05:05:00,131 - logger.file -INFO - user clicked on cart icon at the top of page
+2022-12-15 05:05:00,272 - logger.file -INFO - Cart button displays 2
+2022-12-15 05:05:00,272 - logger.file -INFO - The quantity in the cart changed to 2
+2022-12-15 05:05:04,398 - logger.file -INFO - Order
+2022-12-15 05:05:04,501 - logger.file -INFO - User clicked on proceddChechoutButtn
+2022-12-15 05:05:04,612 - logger.file -INFO - User clicked on addAddressbtn
+2022-12-15 05:05:09,470 - logger.file -INFO - user successfully fill the form of new address
+2022-12-15 05:05:13,610 - logger.file -INFO - user successfully add the address
+2022-12-15 05:05:13,725 - logger.file -INFO - User clicked on addPaymentMethod
+2022-12-15 05:05:14,313 - logger.file -INFO - user clicked on Add Your card
+2022-12-15 05:05:14,452 - logger.file -INFO - User clicked on placed ordered button
+2022-12-15 05:20:22,324 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 05:20:22,456 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 05:20:22,716 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 05:20:22,794 - logger.file -INFO - user is clicked on login button
+2022-12-15 05:20:23,166 - logger.file -INFO - user logged in into account
+2022-12-15 05:20:27,269 - logger.file -INFO - User change the Category to smartHome option
+2022-12-15 05:20:27,370 - logger.file -INFO - User search for kasa outdoor smart plug item
+2022-12-15 05:20:27,442 - logger.file -INFO - user click on search button
+2022-12-15 05:27:16,007 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 05:27:16,153 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 05:27:16,423 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 05:27:16,504 - logger.file -INFO - user is clicked on login button
+2022-12-15 05:27:16,790 - logger.file -INFO - user logged in into account
+2022-12-15 05:27:20,904 - logger.file -INFO - User change the Category to smartHome option
+2022-12-15 05:27:21,006 - logger.file -INFO - User search for kasa outdoor smart plug item
+2022-12-15 05:27:21,080 - logger.file -INFO - user click on search button
+2022-12-15 16:35:33,308 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 16:35:33,442 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 16:35:33,714 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 16:35:33,800 - logger.file -INFO - user is clicked on login button
+2022-12-15 16:35:34,100 - logger.file -INFO - user logged in into account
+2022-12-15 16:35:38,215 - logger.file -INFO - User change the Category to smartHome option
+2022-12-15 16:35:38,316 - logger.file -INFO - User search for kasa outdoor smart plug item
+2022-12-15 16:35:38,388 - logger.file -INFO - user click on search button
+2022-12-15 16:41:54,167 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 16:41:54,282 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 16:41:54,563 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 16:41:54,646 - logger.file -INFO - user is clicked on login button
+2022-12-15 16:41:54,945 - logger.file -INFO - user logged in into account
+2022-12-15 16:41:59,048 - logger.file -INFO - User change the Category to smartHome option
+2022-12-15 16:41:59,152 - logger.file -INFO - User search for kasa outdoor smart plug item
+2022-12-15 16:41:59,223 - logger.file -INFO - user click on search button
+2022-12-15 16:41:59,435 - logger.file -INFO - User clicked on item
+2022-12-15 16:41:59,580 - logger.file -INFO - User selected 5from smartHome
+2022-12-15 16:41:59,658 - logger.file -INFO - user clicked on cart icon at the top of page
+2022-12-15 16:41:59,747 - logger.file -INFO - Cart button displays 5
+2022-12-15 16:41:59,748 - logger.file -INFO - The quantity in the cart changed to 2
+2022-12-15 16:42:03,902 - logger.file -INFO - Order
+2022-12-15 16:42:04,010 - logger.file -INFO - User clicked on proceddChechoutButtn
+2022-12-15 16:42:04,091 - logger.file -INFO - User clicked on placed ordered button
+2022-12-15 16:45:22,131 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 16:45:22,251 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 16:45:22,538 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 16:45:22,619 - logger.file -INFO - user is clicked on login button
+2022-12-15 16:45:22,958 - logger.file -INFO - user logged in into account
+2022-12-15 16:45:27,066 - logger.file -INFO - User change the Category to smartHome option
+2022-12-15 16:45:27,169 - logger.file -INFO - User search for kasa outdoor smart plug item
+2022-12-15 16:45:27,240 - logger.file -INFO - user click on search button
+2022-12-15 16:45:27,449 - logger.file -INFO - User clicked on item
+2022-12-15 16:45:27,596 - logger.file -INFO - User selected 5from smartHome
+2022-12-15 16:45:27,672 - logger.file -INFO - user clicked on cart icon at the top of page
+2022-12-15 16:45:27,825 - logger.file -INFO - Cart button displays 5
+2022-12-15 16:45:27,826 - logger.file -INFO - The quantity in the cart changed to 2
+2022-12-15 16:45:31,956 - logger.file -INFO - Order
+2022-12-15 16:45:32,066 - logger.file -INFO - User clicked on proceddChechoutButtn
+2022-12-15 16:45:32,150 - logger.file -INFO - User clicked on placed ordered button
+2022-12-15 17:31:14,576 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 17:31:14,721 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 17:31:14,985 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 17:31:15,069 - logger.file -INFO - user is clicked on login button
+2022-12-15 17:31:15,423 - logger.file -INFO - user logged in into account
+2022-12-15 17:31:19,563 - logger.file -INFO - User click on Orders section
+2022-12-15 17:41:20,115 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 17:41:20,250 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 17:41:20,518 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 17:41:20,604 - logger.file -INFO - user is clicked on login button
+2022-12-15 17:41:20,918 - logger.file -INFO - user logged in into account
+2022-12-15 17:41:25,061 - logger.file -INFO - User click on Orders section
+2022-12-15 17:45:32,287 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 17:45:32,418 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 17:45:32,683 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 17:45:32,760 - logger.file -INFO - user is clicked on login button
+2022-12-15 17:45:33,309 - logger.file -INFO - user logged in into account
+2022-12-15 17:45:37,440 - logger.file -INFO - User click on Orders section
+2022-12-15 17:54:41,879 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 17:54:42,022 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 17:54:42,290 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 17:54:42,369 - logger.file -INFO - user is clicked on login button
+2022-12-15 17:54:42,833 - logger.file -INFO - user logged in into account
+2022-12-15 17:54:46,977 - logger.file -INFO - User click on Orders section
+2022-12-15 17:54:47,074 - logger.file -INFO - User click on first order in list
+2022-12-15 17:54:51,232 - logger.file -INFO - User click on Cancel Order button
+2022-12-15 17:54:51,394 - logger.file -INFO - User clicked on cancel order
+2022-12-15 17:56:18,020 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 17:56:18,170 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 17:56:18,440 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 17:56:18,529 - logger.file -INFO - user is clicked on login button
+2022-12-15 17:56:18,914 - logger.file -INFO - user logged in into account
+2022-12-15 17:56:23,051 - logger.file -INFO - User click on Orders section
+2022-12-15 17:56:23,155 - logger.file -INFO - User click on first order in list
+2022-12-15 17:56:27,305 - logger.file -INFO - User click on Cancel Order button
+2022-12-15 17:56:27,465 - logger.file -INFO - User clicked on cancel order
+2022-12-15 17:56:27,645 - logger.file -INFO - A cancelation message is displayedYour Order Has Been Cancelled
+2022-12-15 18:21:47,845 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 18:21:47,978 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 18:21:48,231 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 18:21:48,311 - logger.file -INFO - user is clicked on login button
+2022-12-15 18:21:48,603 - logger.file -INFO - user logged in into account
+2022-12-15 18:21:52,742 - logger.file -INFO - User click on Orders section
+2022-12-15 18:21:52,841 - logger.file -INFO - User click on first order in list
+2022-12-15 18:24:40,448 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 18:24:40,581 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 18:24:40,846 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 18:24:40,926 - logger.file -INFO - user is clicked on login button
+2022-12-15 18:24:41,236 - logger.file -INFO - user logged in into account
+2022-12-15 18:24:45,365 - logger.file -INFO - User click on Orders section
+2022-12-15 18:24:45,469 - logger.file -INFO - User click on first order in list
+2022-12-15 18:24:49,616 - logger.file -INFO - user clicked on return items button
+2022-12-15 18:24:49,702 - logger.file -INFO - user selected the return reasonItem damaged
+2022-12-15 18:24:49,773 - logger.file -INFO - user selected the drop off serviceFedEx
+2022-12-15 18:24:49,850 - logger.file -INFO - user clicked on return order button
+2022-12-15 18:24:50,064 - logger.file -INFO - A return message Return was successfull is displayed
+2022-12-15 18:41:53,891 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 18:41:54,036 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 18:41:54,289 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 18:41:54,366 - logger.file -INFO - user is clicked on login button
+2022-12-15 18:41:54,700 - logger.file -INFO - user logged in into account
+2022-12-15 18:41:58,833 - logger.file -INFO - User click on Orders section
+2022-12-15 18:41:58,927 - logger.file -INFO - User click on first order in list
+2022-12-15 18:42:03,069 - logger.file -INFO - user clicked on review button
+2022-12-15 18:42:03,274 - logger.file -INFO - user wrote review headlineurgent and review text bring fast
+2022-12-15 18:42:03,369 - logger.file -INFO - user clicked add your review button
+2022-12-15 18:42:04,078 - logger.file -INFO - the message was displayed
+2022-12-15 18:48:29,626 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 18:48:29,778 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 18:48:30,029 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 18:48:30,109 - logger.file -INFO - user is clicked on login button
+2022-12-15 18:48:30,950 - logger.file -INFO - user logged in into account
+2022-12-15 18:48:35,061 - logger.file -INFO - User change the Category to smartHome option
+2022-12-15 18:48:35,185 - logger.file -INFO - User search for kasa outdoor smart plug item
+2022-12-15 18:48:35,256 - logger.file -INFO - user click on search button
+2022-12-15 18:48:35,459 - logger.file -INFO - user click on Product
+2022-12-15 18:48:35,644 - logger.file -INFO - User selected 2from smartHome
+2022-12-15 18:48:35,741 - logger.file -INFO - user clicked on cart icon at the top of page
+2022-12-15 18:48:35,765 - logger.file -INFO - Cart button displays 2
+2022-12-15 18:48:35,765 - logger.file -INFO - The quantity in the cart changed to 2
+2022-12-15 18:49:07,871 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 18:49:08,008 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 18:49:08,277 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 18:49:08,364 - logger.file -INFO - user is clicked on login button
+2022-12-15 18:49:08,642 - logger.file -INFO - user logged in into account
+2022-12-15 18:49:12,758 - logger.file -INFO - User change the Category to smartHome option
+2022-12-15 18:49:12,878 - logger.file -INFO - User search for kasa outdoor smart plug item
+2022-12-15 18:49:12,953 - logger.file -INFO - user click on search button
+2022-12-15 18:49:13,415 - logger.file -INFO - user click on Product
+2022-12-15 18:49:13,562 - logger.file -INFO - User selected 2from smartHome
+2022-12-15 18:49:13,638 - logger.file -INFO - user clicked on cart icon at the top of page
+2022-12-15 18:49:13,662 - logger.file -INFO - Cart button displays 2
+2022-12-15 18:49:13,663 - logger.file -INFO - The quantity in the cart changed to 2
+2022-12-15 18:49:17,778 - logger.file -INFO - Order
+2022-12-15 18:49:17,890 - logger.file -INFO - User clicked on proceddChechoutButtn
+2022-12-15 18:49:18,002 - logger.file -INFO - User clicked on addAddressbtn
+2022-12-15 18:49:23,008 - logger.file -INFO - user successfully fill the form of new address
+2022-12-15 18:49:27,143 - logger.file -INFO - user successfully add the address
+2022-12-15 18:49:27,270 - logger.file -INFO - User clicked on addPaymentMethod
+2022-12-15 18:49:27,807 - logger.file -INFO - user clicked on Add Your card
+2022-12-15 18:49:56,174 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 18:49:56,295 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 18:49:56,568 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 18:49:56,655 - logger.file -INFO - user is clicked on login button
+2022-12-15 18:49:56,965 - logger.file -INFO - user logged in into account
+2022-12-15 18:50:01,077 - logger.file -INFO - User change the Category to smartHome option
+2022-12-15 18:50:01,201 - logger.file -INFO - User search for kasa outdoor smart plug item
+2022-12-15 18:50:01,276 - logger.file -INFO - user click on search button
+2022-12-15 18:50:01,475 - logger.file -INFO - user click on Product
+2022-12-15 18:50:01,631 - logger.file -INFO - User selected 2from smartHome
+2022-12-15 18:50:01,729 - logger.file -INFO - user clicked on cart icon at the top of page
+2022-12-15 18:50:01,753 - logger.file -INFO - Cart button displays 2
+2022-12-15 18:50:01,753 - logger.file -INFO - The quantity in the cart changed to 2
+2022-12-15 18:50:05,935 - logger.file -INFO - Order
+2022-12-15 18:50:06,049 - logger.file -INFO - User clicked on proceddChechoutButtn
+2022-12-15 18:50:06,166 - logger.file -INFO - User clicked on addAddressbtn
+2022-12-15 18:50:11,023 - logger.file -INFO - user successfully fill the form of new address
+2022-12-15 18:50:15,156 - logger.file -INFO - user successfully add the address
+2022-12-15 18:50:15,335 - logger.file -INFO - User clicked on addPaymentMethod
+2022-12-15 18:50:15,913 - logger.file -INFO - user clicked on Add Your card
+2022-12-15 18:50:16,060 - logger.file -INFO - User clicked on placed ordered button
+2022-12-15 18:59:06,630 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 18:59:06,831 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 18:59:07,133 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 18:59:07,218 - logger.file -INFO - user is clicked on login button
+2022-12-15 18:59:07,514 - logger.file -INFO - user logged in into account
+2022-12-15 18:59:11,618 - logger.file -INFO - User change the Category to smartHome option
+2022-12-15 18:59:11,742 - logger.file -INFO - User search for kasa outdoor smart plug item
+2022-12-15 18:59:11,822 - logger.file -INFO - user click on search button
+2022-12-15 18:59:11,968 - logger.file -INFO - user click on Product
+2022-12-15 18:59:12,182 - logger.file -INFO - User selected 2from smartHome
+2022-12-15 18:59:12,274 - logger.file -INFO - user clicked on cart icon at the top of page
+2022-12-15 18:59:12,448 - logger.file -INFO - Cart button displays 2
+2022-12-15 18:59:12,449 - logger.file -INFO - The quantity in the cart changed to 2
+2022-12-15 18:59:16,604 - logger.file -INFO - Order
+2022-12-15 18:59:16,714 - logger.file -INFO - User clicked on proceddChechoutButtn
+2022-12-15 18:59:16,834 - logger.file -INFO - User clicked on addAddressbtn
+2022-12-15 18:59:21,731 - logger.file -INFO - user successfully fill the form of new address
+2022-12-15 18:59:25,872 - logger.file -INFO - user successfully add the address
+2022-12-15 19:03:30,038 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 19:03:30,407 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 19:03:30,909 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 19:03:30,990 - logger.file -INFO - user is clicked on login button
+2022-12-15 19:03:31,217 - logger.file -INFO - user logged in into account
+2022-12-15 19:03:35,348 - logger.file -INFO - User change the Category to smartHome option
+2022-12-15 19:03:35,477 - logger.file -INFO - User search for kasa outdoor smart plug item
+2022-12-15 19:03:35,551 - logger.file -INFO - user click on search button
+2022-12-15 19:03:35,764 - logger.file -INFO - user click on Product
+2022-12-15 19:03:36,015 - logger.file -INFO - User selected 2from smartHome
+2022-12-15 19:03:36,089 - logger.file -INFO - user clicked on cart icon at the top of page
+2022-12-15 19:03:36,238 - logger.file -INFO - Cart button displays 2
+2022-12-15 19:03:36,243 - logger.file -INFO - The quantity in the cart changed to 2
+2022-12-15 19:03:40,389 - logger.file -INFO - Order
+2022-12-15 19:03:40,499 - logger.file -INFO - User clicked on proceddChechoutButtn
+2022-12-15 19:03:40,603 - logger.file -INFO - User clicked on addAddressbtn
+2022-12-15 19:03:45,477 - logger.file -INFO - user successfully fill the form of new address
+2022-12-15 19:03:49,587 - logger.file -INFO - user successfully add the address
+2022-12-15 19:03:49,768 - logger.file -INFO - User clicked on addPaymentMethod
+2022-12-15 19:03:50,514 - logger.file -INFO - user clicked on Add Your card
+2022-12-15 19:03:50,658 - logger.file -INFO - User clicked on placed ordered button
+2022-12-15 19:07:59,304 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 19:07:59,446 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 19:07:59,720 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 19:07:59,806 - logger.file -INFO - user is clicked on login button
+2022-12-15 19:08:00,137 - logger.file -INFO - user logged in into account
+2022-12-15 19:08:04,251 - logger.file -INFO - User change the Category to smartHome option
+2022-12-15 19:08:04,370 - logger.file -INFO - User search for kasa outdoor smart plug item
+2022-12-15 19:08:04,442 - logger.file -INFO - user click on search button
+2022-12-15 19:08:04,642 - logger.file -INFO - user click on Product
+2022-12-15 19:08:04,881 - logger.file -INFO - User selected 2from smartHome
+2022-12-15 19:08:04,960 - logger.file -INFO - user clicked on cart icon at the top of page
+2022-12-15 19:08:05,134 - logger.file -INFO - Cart button displays 2
+2022-12-15 19:08:05,134 - logger.file -INFO - The quantity in the cart changed to 2
+2022-12-15 19:08:09,282 - logger.file -INFO - Order
+2022-12-15 19:08:09,405 - logger.file -INFO - User clicked on proceddChechoutButtn
+2022-12-15 19:08:09,513 - logger.file -INFO - User clicked on addAddressbtn
+2022-12-15 19:08:14,471 - logger.file -INFO - user successfully fill the form of new address
+2022-12-15 19:08:18,590 - logger.file -INFO - user successfully add the address
+2022-12-15 19:08:18,834 - logger.file -INFO - User clicked on addPaymentMethod
+2022-12-15 19:08:19,422 - logger.file -INFO - user clicked on Add Your card
+2022-12-15 19:08:19,592 - logger.file -INFO - User clicked on placed ordered button
+2022-12-15 19:42:15,930 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 19:42:16,074 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 19:42:16,338 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 19:42:16,419 - logger.file -INFO - user is clicked on login button
+2022-12-15 19:42:16,707 - logger.file -INFO - user logged in into account
+2022-12-15 19:42:20,821 - logger.file -INFO - User change the Category to smartHome option
+2022-12-15 19:42:20,942 - logger.file -INFO - User search for kasa outdoor smart plug item
+2022-12-15 19:42:21,014 - logger.file -INFO - user click on search button
+2022-12-15 19:42:21,221 - logger.file -INFO - user click on Product
+2022-12-15 19:42:21,371 - logger.file -INFO - User selected 2from smartHome
+2022-12-15 19:42:21,470 - logger.file -INFO - user clicked on cart icon at the top of page
+2022-12-15 19:42:21,560 - logger.file -INFO - Cart button displays 2
+2022-12-15 19:42:21,560 - logger.file -INFO - The quantity in the cart changed to 2
+2022-12-15 19:42:25,715 - logger.file -INFO - Order
+2022-12-15 19:42:25,829 - logger.file -INFO - User clicked on proceddChechoutButtn
+2022-12-15 19:42:25,935 - logger.file -INFO - User clicked on addAddressbtn
+2022-12-15 19:42:30,784 - logger.file -INFO - user successfully fill the form of new address
+2022-12-15 19:42:34,919 - logger.file -INFO - user successfully add the address
+2022-12-15 19:42:35,084 - logger.file -INFO - User clicked on addPaymentMethod
+2022-12-15 19:42:35,669 - logger.file -INFO - user clicked on Add Your card
+2022-12-15 19:42:35,819 - logger.file -INFO - User clicked on placed ordered button
+2022-12-15 19:48:01,100 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 19:48:01,236 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 19:48:01,492 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 19:48:01,571 - logger.file -INFO - user is clicked on login button
+2022-12-15 19:48:01,906 - logger.file -INFO - user logged in into account
+2022-12-15 19:48:06,015 - logger.file -INFO - User change the Category to smartHome option
+2022-12-15 19:48:06,135 - logger.file -INFO - User search for kasa outdoor smart plug item
+2022-12-15 19:48:06,211 - logger.file -INFO - user click on search button
+2022-12-15 19:48:06,369 - logger.file -INFO - user click on Product
+2022-12-15 19:48:06,515 - logger.file -INFO - User selected 2from smartHome
+2022-12-15 19:48:06,617 - logger.file -INFO - user clicked on cart icon at the top of page
+2022-12-15 19:48:06,764 - logger.file -INFO - Cart button displays 2
+2022-12-15 19:48:06,764 - logger.file -INFO - The quantity in the cart changed to 2
+2022-12-15 19:48:10,969 - logger.file -INFO - Order
+2022-12-15 19:48:11,090 - logger.file -INFO - User clicked on proceddChechoutButtn
+2022-12-15 19:48:11,192 - logger.file -INFO - User clicked on addAddressbtn
+2022-12-15 19:48:16,066 - logger.file -INFO - user successfully fill the form of new address
+2022-12-15 19:48:20,191 - logger.file -INFO - user successfully add the address
+2022-12-15 19:48:20,726 - logger.file -INFO - User clicked on addPaymentMethod
+2022-12-15 19:48:25,259 - logger.file -INFO - user clicked on Add Your card
+2022-12-15 19:48:25,453 - logger.file -INFO - User clicked on placed ordered button
+2022-12-15 19:54:18,985 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 19:54:19,100 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 19:54:19,362 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 19:54:19,447 - logger.file -INFO - user is clicked on login button
+2022-12-15 19:54:19,758 - logger.file -INFO - user logged in into account
+2022-12-15 19:54:23,858 - logger.file -INFO - User change the Category to smartHome option
+2022-12-15 19:54:23,979 - logger.file -INFO - User search for kasa outdoor smart plug item
+2022-12-15 19:54:24,054 - logger.file -INFO - user click on search button
+2022-12-15 19:54:24,258 - logger.file -INFO - user click on Product
+2022-12-15 19:54:24,418 - logger.file -INFO - User selected 2from smartHome
+2022-12-15 19:54:24,519 - logger.file -INFO - user clicked on cart icon at the top of page
+2022-12-15 19:54:24,614 - logger.file -INFO - Cart button displays 2
+2022-12-15 19:54:24,614 - logger.file -INFO - The quantity in the cart changed to 2
+2022-12-15 19:54:28,742 - logger.file -INFO - Order
+2022-12-15 19:54:28,857 - logger.file -INFO - User clicked on proceddChechoutButtn
+2022-12-15 19:54:28,967 - logger.file -INFO - User clicked on addAddressbtn
+2022-12-15 19:54:33,824 - logger.file -INFO - user successfully fill the form of new address
+2022-12-15 19:54:37,946 - logger.file -INFO - user successfully add the address
+2022-12-15 19:54:38,107 - logger.file -INFO - User clicked on addPaymentMethod
+2022-12-15 19:54:42,613 - logger.file -INFO - user clicked on Add Your card
+2022-12-15 19:54:42,702 - logger.file -INFO - User clicked on placed ordered button
+2022-12-15 20:25:19,495 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 20:25:19,633 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 20:25:19,901 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 20:25:19,984 - logger.file -INFO - user is clicked on login button
+2022-12-15 20:25:20,254 - logger.file -INFO - user logged in into account
+2022-12-15 20:25:24,373 - logger.file -INFO - User change the Category to smartHome option
+2022-12-15 20:25:24,489 - logger.file -INFO - User search for kasa outdoor smart plug item
+2022-12-15 20:25:24,563 - logger.file -INFO - user click on search button
+2022-12-15 20:25:24,761 - logger.file -INFO - user click on Product
+2022-12-15 20:25:24,921 - logger.file -INFO - User selected 2from smartHome
+2022-12-15 20:25:24,994 - logger.file -INFO - user clicked on cart icon at the top of page
+2022-12-15 20:25:25,105 - logger.file -INFO - Cart button displays 2
+2022-12-15 20:25:25,105 - logger.file -INFO - The quantity in the cart changed to 2
+2022-12-15 20:25:29,229 - logger.file -INFO - Order
+2022-12-15 20:25:29,350 - logger.file -INFO - User clicked on proceddChechoutButtn
+2022-12-15 20:25:29,461 - logger.file -INFO - User clicked on addAddressbtn
+2022-12-15 20:25:34,318 - logger.file -INFO - user successfully fill the form of new address
+2022-12-15 20:25:38,436 - logger.file -INFO - user successfully add the address
+2022-12-15 20:25:42,548 - logger.file -INFO - User clicked on addPaymentMethod
+2022-12-15 20:25:47,086 - logger.file -INFO - user clicked on Add Your card
+2022-12-15 20:25:47,179 - logger.file -INFO - User clicked on placed ordered button
+2022-12-15 20:37:52,254 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 20:37:52,373 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 20:37:52,654 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 20:37:52,730 - logger.file -INFO - user is clicked on login button
+2022-12-15 20:37:53,035 - logger.file -INFO - user logged in into account
+2022-12-15 20:37:57,188 - logger.file -INFO - user clicked on Account button
+2022-12-15 20:37:57,288 - logger.file -INFO - user click on remove button
+2022-12-15 20:41:00,103 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 20:41:00,211 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 20:41:00,477 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 20:41:00,554 - logger.file -INFO - user is clicked on login button
+2022-12-15 20:41:00,833 - logger.file -INFO - user logged in into account
+2022-12-15 20:41:04,984 - logger.file -INFO - user clicked on Account button
+2022-12-15 20:41:05,099 - logger.file -INFO - user click on remove button
+2022-12-15 20:41:09,132 - logger.file -INFO - Address removed successfully
+2022-12-15 20:42:42,760 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 20:42:42,873 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 20:42:43,127 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 20:42:43,206 - logger.file -INFO - user is clicked on login button
+2022-12-15 20:42:43,517 - logger.file -INFO - user logged in into account
+2022-12-15 20:42:47,622 - logger.file -INFO - User change the Category to smartHome option
+2022-12-15 20:42:47,741 - logger.file -INFO - User search for kasa outdoor smart plug item
+2022-12-15 20:42:47,811 - logger.file -INFO - user click on search button
+2022-12-15 20:42:48,015 - logger.file -INFO - user click on Product
+2022-12-15 20:42:48,171 - logger.file -INFO - User selected 2from smartHome
+2022-12-15 20:42:48,246 - logger.file -INFO - user clicked on cart icon at the top of page
+2022-12-15 20:42:48,391 - logger.file -INFO - Cart button displays 2
+2022-12-15 20:42:48,392 - logger.file -INFO - The quantity in the cart changed to 2
+2022-12-15 20:42:52,532 - logger.file -INFO - Order
+2022-12-15 20:42:52,654 - logger.file -INFO - User clicked on proceddChechoutButtn
+2022-12-15 20:42:52,765 - logger.file -INFO - User clicked on addAddressbtn
+2022-12-15 20:42:57,700 - logger.file -INFO - user successfully fill the form of new address
+2022-12-15 20:43:01,820 - logger.file -INFO - user successfully add the address
+2022-12-15 20:43:05,923 - logger.file -INFO - User clicked on addPaymentMethod
+2022-12-15 20:43:10,441 - logger.file -INFO - user clicked on Add Your card
+2022-12-15 20:43:10,535 - logger.file -INFO - User clicked on placed ordered button
+2022-12-15 20:47:33,207 - logger.file -INFO - React Appis equal toReact App
+2022-12-15 20:47:33,351 - logger.file -INFO - user clicked on SignIn option
+2022-12-15 20:47:33,609 - logger.file -INFO - user entered emailcapsstone@gmail.comand passwordCapstone$123
+2022-12-15 20:47:33,691 - logger.file -INFO - user is clicked on login button
+2022-12-15 20:47:33,980 - logger.file -INFO - user logged in into account
+2022-12-15 20:47:38,086 - logger.file -INFO - User change the Category to smartHome option
+2022-12-15 20:47:38,207 - logger.file -INFO - User search for kasa outdoor smart plug item
+2022-12-15 20:47:38,279 - logger.file -INFO - user click on search button
+2022-12-15 20:47:38,425 - logger.file -INFO - user click on Product
+2022-12-15 20:47:38,579 - logger.file -INFO - User selected 2from smartHome
+2022-12-15 20:47:38,651 - logger.file -INFO - user clicked on cart icon at the top of page
+2022-12-15 20:47:38,757 - logger.file -INFO - Cart button displays 2
+2022-12-15 20:47:38,757 - logger.file -INFO - The quantity in the cart changed to 2
+2022-12-15 20:47:42,884 - logger.file -INFO - Order
+2022-12-15 20:47:42,999 - logger.file -INFO - User clicked on proceddChechoutButtn
+2022-12-15 20:47:43,103 - logger.file -INFO - User clicked on addAddressbtn
+2022-12-15 20:47:48,110 - logger.file -INFO - user successfully fill the form of new address
+2022-12-15 20:47:52,235 - logger.file -INFO - user successfully add the address
+2022-12-15 20:47:56,466 - logger.file -INFO - User clicked on addPaymentMethod
+2022-12-15 20:48:01,046 - logger.file -INFO - user clicked on Add Your card
+2022-12-15 20:48:01,210 - logger.file -INFO - User clicked on placed ordered button
